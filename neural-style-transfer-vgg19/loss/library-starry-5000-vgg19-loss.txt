@@ -1,0 +1,2757 @@
+Library starry
+
+iter: 1, loss: 368658.750000
+iter: 2, loss: 368113.437500
+iter: 3, loss: 367431.343750
+iter: 4, loss: 366551.062500
+iter: 5, loss: 365429.125000
+iter: 6, loss: 363958.500000
+iter: 7, loss: 362219.875000
+iter: 8, loss: 360274.781250
+iter: 9, loss: 357849.718750
+iter: 10, loss: 354412.656250
+iter: 11, loss: 348504.875000
+iter: 12, loss: 334333.062500
+iter: 13, loss: 294588.625000
+iter: 14, loss: 273493.406250
+iter: 15, loss: 255420.312500
+iter: 16, loss: 240467.781250
+iter: 17, loss: 225902.937500
+iter: 18, loss: 210296.718750
+iter: 19, loss: 195212.359375
+iter: 20, loss: 181840.906250
+iter: 21, loss: 169160.734375
+iter: 22, loss: 155432.593750
+iter: 23, loss: 141344.343750
+iter: 24, loss: 129670.515625
+iter: 25, loss: 122008.625000
+iter: 26, loss: 114968.429688
+iter: 27, loss: 108947.937500
+iter: 28, loss: 103791.031250
+iter: 29, loss: 98647.953125
+iter: 30, loss: 94380.390625
+iter: 31, loss: 90915.250000
+iter: 32, loss: 88307.242188
+iter: 33, loss: 84238.359375
+iter: 34, loss: 81528.562500
+iter: 35, loss: 78898.250000
+iter: 36, loss: 76614.851562
+iter: 37, loss: 74251.921875
+iter: 38, loss: 72721.062500
+iter: 39, loss: 70973.726562
+iter: 40, loss: 69125.687500
+iter: 41, loss: 67767.132812
+iter: 42, loss: 66110.562500
+iter: 43, loss: 64359.343750
+iter: 44, loss: 62864.996094
+iter: 45, loss: 60992.402344
+iter: 46, loss: 59659.085938
+iter: 47, loss: 58354.335938
+iter: 48, loss: 57017.644531
+iter: 49, loss: 55749.929688
+iter: 50, loss: 54612.312500
+iter: 51, loss: 53555.281250
+iter: 52, loss: 52499.421875
+iter: 53, loss: 51569.007812
+iter: 54, loss: 50521.187500
+iter: 55, loss: 49561.992188
+iter: 56, loss: 48691.796875
+iter: 57, loss: 47801.265625
+iter: 58, loss: 46820.378906
+iter: 59, loss: 45959.324219
+iter: 60, loss: 45198.179688
+iter: 61, loss: 44439.921875
+iter: 62, loss: 43928.953125
+iter: 63, loss: 43258.906250
+iter: 64, loss: 42704.070312
+iter: 65, loss: 42134.105469
+iter: 66, loss: 41513.917969
+iter: 67, loss: 41067.445312
+iter: 68, loss: 40285.390625
+iter: 69, loss: 39726.910156
+iter: 70, loss: 39102.890625
+iter: 71, loss: 38384.378906
+iter: 72, loss: 37832.000000
+iter: 73, loss: 37281.179688
+iter: 74, loss: 36693.968750
+iter: 75, loss: 36191.332031
+iter: 76, loss: 35681.453125
+iter: 77, loss: 35203.507812
+iter: 78, loss: 34727.128906
+iter: 79, loss: 34240.367188
+iter: 80, loss: 33696.851562
+iter: 81, loss: 33197.101562
+iter: 82, loss: 32710.492188
+iter: 83, loss: 32256.117188
+iter: 84, loss: 31848.667969
+iter: 85, loss: 31380.601562
+iter: 86, loss: 30986.589844
+iter: 87, loss: 30609.558594
+iter: 88, loss: 30266.765625
+iter: 89, loss: 29988.095703
+iter: 90, loss: 29512.779297
+iter: 91, loss: 29159.351562
+iter: 92, loss: 28786.804688
+iter: 93, loss: 28396.371094
+iter: 94, loss: 28023.210938
+iter: 95, loss: 27709.714844
+iter: 96, loss: 27299.437500
+iter: 97, loss: 26952.628906
+iter: 98, loss: 26614.031250
+iter: 99, loss: 26269.062500
+iter: 100, loss: 26003.746094
+iter: 101, loss: 25661.679688
+iter: 102, loss: 25302.582031
+iter: 103, loss: 25038.714844
+iter: 104, loss: 24725.634766
+iter: 105, loss: 24413.718750
+iter: 106, loss: 24097.529297
+iter: 107, loss: 23871.994141
+iter: 108, loss: 23563.951172
+iter: 109, loss: 23353.304688
+iter: 110, loss: 23043.394531
+iter: 111, loss: 22779.669922
+iter: 112, loss: 22555.589844
+iter: 113, loss: 22317.693359
+iter: 114, loss: 22014.640625
+iter: 115, loss: 21838.109375
+iter: 116, loss: 21598.371094
+iter: 117, loss: 21353.205078
+iter: 118, loss: 21116.248047
+iter: 119, loss: 20866.529297
+iter: 120, loss: 20638.480469
+iter: 121, loss: 20353.214844
+iter: 122, loss: 20107.449219
+iter: 123, loss: 19920.855469
+iter: 124, loss: 19645.449219
+iter: 125, loss: 19456.585938
+iter: 126, loss: 19242.199219
+iter: 127, loss: 19062.343750
+iter: 128, loss: 18969.712891
+iter: 129, loss: 18682.800781
+iter: 130, loss: 18454.074219
+iter: 131, loss: 18283.894531
+iter: 132, loss: 18108.414062
+iter: 133, loss: 17938.539062
+iter: 134, loss: 17752.044922
+iter: 135, loss: 17567.324219
+iter: 136, loss: 17392.390625
+iter: 137, loss: 17205.685547
+iter: 138, loss: 17042.169922
+iter: 139, loss: 16859.115234
+iter: 140, loss: 16682.261719
+iter: 141, loss: 16525.794922
+iter: 142, loss: 16365.503906
+iter: 143, loss: 16202.712891
+iter: 144, loss: 16044.798828
+iter: 145, loss: 15900.158203
+iter: 146, loss: 15757.592773
+iter: 147, loss: 15617.468750
+iter: 148, loss: 15460.675781
+iter: 149, loss: 15323.640625
+iter: 150, loss: 15178.261719
+iter: 151, loss: 15050.350586
+iter: 152, loss: 14925.504883
+iter: 153, loss: 14819.322266
+iter: 154, loss: 14719.161133
+iter: 155, loss: 14608.363281
+iter: 156, loss: 14471.670898
+iter: 157, loss: 14380.556641
+iter: 158, loss: 14294.080078
+iter: 159, loss: 14183.146484
+iter: 160, loss: 14074.849609
+iter: 161, loss: 13955.369141
+iter: 162, loss: 13852.169922
+iter: 163, loss: 13758.515625
+iter: 164, loss: 13664.419922
+iter: 165, loss: 13577.169922
+iter: 166, loss: 13505.498047
+iter: 167, loss: 13389.106445
+iter: 168, loss: 13312.583984
+iter: 169, loss: 13227.882812
+iter: 170, loss: 13142.491211
+iter: 171, loss: 13083.805664
+iter: 172, loss: 12987.774414
+iter: 173, loss: 12896.279297
+iter: 174, loss: 12819.043945
+iter: 175, loss: 12739.900391
+iter: 176, loss: 12655.251953
+iter: 177, loss: 12570.451172
+iter: 178, loss: 12498.855469
+iter: 179, loss: 12434.226562
+iter: 180, loss: 12373.945312
+iter: 181, loss: 12293.011719
+iter: 182, loss: 12224.867188
+iter: 183, loss: 12160.558594
+iter: 184, loss: 12099.502930
+iter: 185, loss: 12051.111328
+iter: 186, loss: 11978.182617
+iter: 187, loss: 11908.955078
+iter: 188, loss: 11857.961914
+iter: 189, loss: 11786.078125
+iter: 190, loss: 11728.325195
+iter: 191, loss: 11677.456055
+iter: 192, loss: 11620.650391
+iter: 193, loss: 11572.033203
+iter: 194, loss: 11512.853516
+iter: 195, loss: 11455.117188
+iter: 196, loss: 11400.032227
+iter: 197, loss: 11347.555664
+iter: 198, loss: 11300.154297
+iter: 199, loss: 11262.084961
+iter: 200, loss: 11205.166016
+iter: 201, loss: 11158.777344
+iter: 202, loss: 11113.339844
+iter: 203, loss: 11074.168945
+iter: 204, loss: 11034.853516
+iter: 205, loss: 10980.007812
+iter: 206, loss: 10930.041016
+iter: 207, loss: 10878.645508
+iter: 208, loss: 10831.773438
+iter: 209, loss: 10782.722656
+iter: 210, loss: 10738.806641
+iter: 211, loss: 10697.846680
+iter: 212, loss: 10655.998047
+iter: 213, loss: 10621.143555
+iter: 214, loss: 10579.568359
+iter: 215, loss: 10536.600586
+iter: 216, loss: 10501.789062
+iter: 217, loss: 10464.849609
+iter: 218, loss: 10420.860352
+iter: 219, loss: 10388.085938
+iter: 220, loss: 10357.292969
+iter: 221, loss: 10320.037109
+iter: 222, loss: 10291.358398
+iter: 223, loss: 10250.765625
+iter: 224, loss: 10216.044922
+iter: 225, loss: 10186.485352
+iter: 226, loss: 10151.507812
+iter: 227, loss: 10124.979492
+iter: 228, loss: 10095.662109
+iter: 229, loss: 10064.158203
+iter: 230, loss: 10032.115234
+iter: 231, loss: 9996.052734
+iter: 232, loss: 9961.831055
+iter: 233, loss: 9934.058594
+iter: 234, loss: 9904.429688
+iter: 235, loss: 9882.618164
+iter: 236, loss: 9848.934570
+iter: 237, loss: 9824.577148
+iter: 238, loss: 9799.535156
+iter: 239, loss: 9768.989258
+iter: 240, loss: 9740.472656
+iter: 241, loss: 9718.355469
+iter: 242, loss: 9692.129883
+iter: 243, loss: 9667.501953
+iter: 244, loss: 9642.643555
+iter: 245, loss: 9614.534180
+iter: 246, loss: 9595.288086
+iter: 247, loss: 9563.380859
+iter: 248, loss: 9537.179688
+iter: 249, loss: 9513.345703
+iter: 250, loss: 9486.125977
+iter: 251, loss: 9464.779297
+iter: 252, loss: 9439.447266
+iter: 253, loss: 9416.907227
+iter: 254, loss: 9394.316406
+iter: 255, loss: 9368.727539
+iter: 256, loss: 9341.553711
+iter: 257, loss: 9315.875000
+iter: 258, loss: 9290.181641
+iter: 259, loss: 9262.752930
+iter: 260, loss: 9237.156250
+iter: 261, loss: 9214.255859
+iter: 262, loss: 9192.354492
+iter: 263, loss: 9169.312500
+iter: 264, loss: 9147.962891
+iter: 265, loss: 9125.856445
+iter: 266, loss: 9105.583984
+iter: 267, loss: 9089.180664
+iter: 268, loss: 9070.078125
+iter: 269, loss: 9053.059570
+iter: 270, loss: 9033.844727
+iter: 271, loss: 9012.024414
+iter: 272, loss: 8987.904297
+iter: 273, loss: 8966.611328
+iter: 274, loss: 8945.452148
+iter: 275, loss: 8925.509766
+iter: 276, loss: 8906.009766
+iter: 277, loss: 8883.748047
+iter: 278, loss: 8868.665039
+iter: 279, loss: 8853.235352
+iter: 280, loss: 8833.989258
+iter: 281, loss: 8818.596680
+iter: 282, loss: 8795.270508
+iter: 283, loss: 8773.685547
+iter: 284, loss: 8755.542969
+iter: 285, loss: 8735.794922
+iter: 286, loss: 8720.009766
+iter: 287, loss: 8701.090820
+iter: 288, loss: 8684.967773
+iter: 289, loss: 8668.708984
+iter: 290, loss: 8651.626953
+iter: 291, loss: 8635.863281
+iter: 292, loss: 8623.363281
+iter: 293, loss: 8606.273438
+iter: 294, loss: 8588.445312
+iter: 295, loss: 8570.025391
+iter: 296, loss: 8551.428711
+iter: 297, loss: 8534.868164
+iter: 298, loss: 8516.417969
+iter: 299, loss: 8499.600586
+iter: 300, loss: 8482.666992
+iter: 301, loss: 8464.474609
+iter: 302, loss: 8449.236328
+iter: 303, loss: 8431.418945
+iter: 304, loss: 8414.211914
+iter: 305, loss: 8400.228516
+iter: 306, loss: 8384.080078
+iter: 307, loss: 8366.036133
+iter: 308, loss: 8350.460938
+iter: 309, loss: 8337.371094
+iter: 310, loss: 8319.604492
+iter: 311, loss: 8304.763672
+iter: 312, loss: 8291.311523
+iter: 313, loss: 8274.281250
+iter: 314, loss: 8258.588867
+iter: 315, loss: 8241.985352
+iter: 316, loss: 8224.929688
+iter: 317, loss: 8208.785156
+iter: 318, loss: 8195.539062
+iter: 319, loss: 8182.057617
+iter: 320, loss: 8171.171387
+iter: 321, loss: 8157.747070
+iter: 322, loss: 8139.858398
+iter: 323, loss: 8124.652344
+iter: 324, loss: 8110.258789
+iter: 325, loss: 8096.398926
+iter: 326, loss: 8082.063965
+iter: 327, loss: 8068.852051
+iter: 328, loss: 8053.498047
+iter: 329, loss: 8042.128906
+iter: 330, loss: 8029.692871
+iter: 331, loss: 8015.083008
+iter: 332, loss: 8000.317383
+iter: 333, loss: 7987.756836
+iter: 334, loss: 7975.522461
+iter: 335, loss: 7961.094727
+iter: 336, loss: 7948.395508
+iter: 337, loss: 7936.452148
+iter: 338, loss: 7922.477539
+iter: 339, loss: 7910.238281
+iter: 340, loss: 7895.668457
+iter: 341, loss: 7879.888184
+iter: 342, loss: 7866.638672
+iter: 343, loss: 7852.599121
+iter: 344, loss: 7838.911133
+iter: 345, loss: 7829.292480
+iter: 346, loss: 7820.507812
+iter: 347, loss: 7805.189453
+iter: 348, loss: 7794.379883
+iter: 349, loss: 7779.766113
+iter: 350, loss: 7767.356934
+iter: 351, loss: 7755.860352
+iter: 352, loss: 7743.465820
+iter: 353, loss: 7730.746094
+iter: 354, loss: 7717.795898
+iter: 355, loss: 7705.859863
+iter: 356, loss: 7692.780273
+iter: 357, loss: 7679.970703
+iter: 358, loss: 7666.646484
+iter: 359, loss: 7655.321777
+iter: 360, loss: 7644.881836
+iter: 361, loss: 7634.280273
+iter: 362, loss: 7620.791992
+iter: 363, loss: 7611.124023
+iter: 364, loss: 7600.250000
+iter: 365, loss: 7589.414062
+iter: 366, loss: 7580.073242
+iter: 367, loss: 7568.383789
+iter: 368, loss: 7558.825195
+iter: 369, loss: 7550.773438
+iter: 370, loss: 7540.186523
+iter: 371, loss: 7530.539551
+iter: 372, loss: 7517.175781
+iter: 373, loss: 7506.880859
+iter: 374, loss: 7496.479980
+iter: 375, loss: 7485.089844
+iter: 376, loss: 7475.536621
+iter: 377, loss: 7464.583008
+iter: 378, loss: 7454.069824
+iter: 379, loss: 7444.475586
+iter: 380, loss: 7434.401367
+iter: 381, loss: 7421.398438
+iter: 382, loss: 7410.352539
+iter: 383, loss: 7399.851074
+iter: 384, loss: 7387.573730
+iter: 385, loss: 7377.303711
+iter: 386, loss: 7366.065430
+iter: 387, loss: 7353.854492
+iter: 388, loss: 7343.142578
+iter: 389, loss: 7333.288574
+iter: 390, loss: 7323.270508
+iter: 391, loss: 7313.449219
+iter: 392, loss: 7303.979492
+iter: 393, loss: 7295.084961
+iter: 394, loss: 7286.059570
+iter: 395, loss: 7276.768066
+iter: 396, loss: 7266.551270
+iter: 397, loss: 7256.583008
+iter: 398, loss: 7247.730469
+iter: 399, loss: 7239.065918
+iter: 400, loss: 7228.395508
+iter: 401, loss: 7220.047363
+iter: 402, loss: 7211.714355
+iter: 403, loss: 7201.330566
+iter: 404, loss: 7193.526855
+iter: 405, loss: 7182.677734
+iter: 406, loss: 7172.050781
+iter: 407, loss: 7162.882812
+iter: 408, loss: 7153.619141
+iter: 409, loss: 7145.032227
+iter: 410, loss: 7135.967773
+iter: 411, loss: 7126.714844
+iter: 412, loss: 7118.175781
+iter: 413, loss: 7108.954102
+iter: 414, loss: 7099.988281
+iter: 415, loss: 7091.333008
+iter: 416, loss: 7082.674805
+iter: 417, loss: 7073.438477
+iter: 418, loss: 7065.223633
+iter: 419, loss: 7057.227539
+iter: 420, loss: 7048.354004
+iter: 421, loss: 7039.503906
+iter: 422, loss: 7030.679688
+iter: 423, loss: 7022.348633
+iter: 424, loss: 7014.243164
+iter: 425, loss: 7005.663086
+iter: 426, loss: 6996.958984
+iter: 427, loss: 6989.708496
+iter: 428, loss: 6981.266602
+iter: 429, loss: 6973.584961
+iter: 430, loss: 6964.906738
+iter: 431, loss: 6957.357422
+iter: 432, loss: 6948.849121
+iter: 433, loss: 6941.612305
+iter: 434, loss: 6933.358398
+iter: 435, loss: 6924.579102
+iter: 436, loss: 6915.351562
+iter: 437, loss: 6906.942383
+iter: 438, loss: 6899.656250
+iter: 439, loss: 6892.268066
+iter: 440, loss: 6884.775391
+iter: 441, loss: 6876.459961
+iter: 442, loss: 6868.441895
+iter: 443, loss: 6860.012695
+iter: 444, loss: 6851.823242
+iter: 445, loss: 6843.684082
+iter: 446, loss: 6835.441895
+iter: 447, loss: 6827.358398
+iter: 448, loss: 6820.046387
+iter: 449, loss: 6812.524414
+iter: 450, loss: 6804.462891
+iter: 451, loss: 6796.746582
+iter: 452, loss: 6789.586426
+iter: 453, loss: 6782.537598
+iter: 454, loss: 6773.724609
+iter: 455, loss: 6767.076172
+iter: 456, loss: 6759.757812
+iter: 457, loss: 6752.895020
+iter: 458, loss: 6746.513184
+iter: 459, loss: 6738.565918
+iter: 460, loss: 6730.225586
+iter: 461, loss: 6723.451660
+iter: 462, loss: 6716.452148
+iter: 463, loss: 6709.695312
+iter: 464, loss: 6702.905273
+iter: 465, loss: 6694.623535
+iter: 466, loss: 6687.322754
+iter: 467, loss: 6680.231445
+iter: 468, loss: 6673.484375
+iter: 469, loss: 6666.509766
+iter: 470, loss: 6659.133789
+iter: 471, loss: 6651.478516
+iter: 472, loss: 6644.304688
+iter: 473, loss: 6637.360352
+iter: 474, loss: 6629.884766
+iter: 475, loss: 6622.503906
+iter: 476, loss: 6615.829102
+iter: 477, loss: 6608.761230
+iter: 478, loss: 6602.083984
+iter: 479, loss: 6595.980469
+iter: 480, loss: 6590.129395
+iter: 481, loss: 6582.552246
+iter: 482, loss: 6575.466309
+iter: 483, loss: 6568.438477
+iter: 484, loss: 6561.459961
+iter: 485, loss: 6555.575195
+iter: 486, loss: 6549.238281
+iter: 487, loss: 6542.916016
+iter: 488, loss: 6536.764648
+iter: 489, loss: 6530.751953
+iter: 490, loss: 6524.218750
+iter: 491, loss: 6517.301758
+iter: 492, loss: 6511.225586
+iter: 493, loss: 6504.507812
+iter: 494, loss: 6497.351562
+iter: 495, loss: 6490.959473
+iter: 496, loss: 6484.257812
+iter: 497, loss: 6477.432617
+iter: 498, loss: 6471.056152
+iter: 499, loss: 6464.980957
+iter: 500, loss: 6458.376465
+iter: 501, loss: 6451.590820
+iter: 502, loss: 6446.009766
+iter: 503, loss: 6440.262695
+iter: 504, loss: 6433.510254
+iter: 505, loss: 6427.951172
+iter: 506, loss: 6422.254883
+iter: 507, loss: 6416.348633
+iter: 508, loss: 6410.192871
+iter: 509, loss: 6403.848145
+iter: 510, loss: 6397.690918
+iter: 511, loss: 6392.285645
+iter: 512, loss: 6387.189453
+iter: 513, loss: 6381.019043
+iter: 514, loss: 6374.395020
+iter: 515, loss: 6368.650879
+iter: 516, loss: 6363.557617
+iter: 517, loss: 6357.595703
+iter: 518, loss: 6351.981934
+iter: 519, loss: 6346.579102
+iter: 520, loss: 6341.262695
+iter: 521, loss: 6335.588867
+iter: 522, loss: 6329.697266
+iter: 523, loss: 6323.016602
+iter: 524, loss: 6317.042969
+iter: 525, loss: 6311.742188
+iter: 526, loss: 6306.488770
+iter: 527, loss: 6300.754883
+iter: 528, loss: 6295.699707
+iter: 529, loss: 6290.468750
+iter: 530, loss: 6284.163086
+iter: 531, loss: 6278.806641
+iter: 532, loss: 6272.684570
+iter: 533, loss: 6266.941406
+iter: 534, loss: 6262.648926
+iter: 535, loss: 6258.307617
+iter: 536, loss: 6253.205078
+iter: 537, loss: 6248.495117
+iter: 538, loss: 6242.569336
+iter: 539, loss: 6236.972656
+iter: 540, loss: 6231.630859
+iter: 541, loss: 6225.838867
+iter: 542, loss: 6220.626465
+iter: 543, loss: 6215.219727
+iter: 544, loss: 6209.978516
+iter: 545, loss: 6204.783691
+iter: 546, loss: 6199.495117
+iter: 547, loss: 6194.220703
+iter: 548, loss: 6188.875977
+iter: 549, loss: 6183.233887
+iter: 550, loss: 6177.079102
+iter: 551, loss: 6171.384766
+iter: 552, loss: 6166.193359
+iter: 553, loss: 6160.941406
+iter: 554, loss: 6155.333984
+iter: 555, loss: 6150.384766
+iter: 556, loss: 6145.767578
+iter: 557, loss: 6140.803223
+iter: 558, loss: 6136.001953
+iter: 559, loss: 6130.985352
+iter: 560, loss: 6125.738770
+iter: 561, loss: 6120.204102
+iter: 562, loss: 6115.402344
+iter: 563, loss: 6110.633301
+iter: 564, loss: 6104.969727
+iter: 565, loss: 6100.567383
+iter: 566, loss: 6095.797852
+iter: 567, loss: 6090.909180
+iter: 568, loss: 6086.050293
+iter: 569, loss: 6080.605469
+iter: 570, loss: 6075.090820
+iter: 571, loss: 6070.171875
+iter: 572, loss: 6065.457031
+iter: 573, loss: 6060.628906
+iter: 574, loss: 6055.750977
+iter: 575, loss: 6050.781250
+iter: 576, loss: 6045.763672
+iter: 577, loss: 6040.962891
+iter: 578, loss: 6036.314453
+iter: 579, loss: 6031.375488
+iter: 580, loss: 6026.491211
+iter: 581, loss: 6021.385742
+iter: 582, loss: 6016.429688
+iter: 583, loss: 6011.901367
+iter: 584, loss: 6007.104980
+iter: 585, loss: 6002.191406
+iter: 586, loss: 5997.539062
+iter: 587, loss: 5992.687500
+iter: 588, loss: 5988.259766
+iter: 589, loss: 5983.787109
+iter: 590, loss: 5978.931641
+iter: 591, loss: 5973.921875
+iter: 592, loss: 5968.885742
+iter: 593, loss: 5964.166016
+iter: 594, loss: 5959.807617
+iter: 595, loss: 5955.554199
+iter: 596, loss: 5951.124023
+iter: 597, loss: 5946.166992
+iter: 598, loss: 5941.121582
+iter: 599, loss: 5936.556641
+iter: 600, loss: 5932.268555
+iter: 601, loss: 5927.486328
+iter: 602, loss: 5922.542480
+iter: 603, loss: 5917.854980
+iter: 604, loss: 5913.138672
+iter: 605, loss: 5908.206055
+iter: 606, loss: 5903.727539
+iter: 607, loss: 5899.346680
+iter: 608, loss: 5895.198242
+iter: 609, loss: 5890.500000
+iter: 610, loss: 5886.012695
+iter: 611, loss: 5881.505859
+iter: 612, loss: 5877.007812
+iter: 613, loss: 5872.518555
+iter: 614, loss: 5867.778809
+iter: 615, loss: 5863.252441
+iter: 616, loss: 5859.026367
+iter: 617, loss: 5854.637695
+iter: 618, loss: 5850.172852
+iter: 619, loss: 5845.954102
+iter: 620, loss: 5841.878906
+iter: 621, loss: 5837.466797
+iter: 622, loss: 5832.746094
+iter: 623, loss: 5828.062988
+iter: 624, loss: 5823.656738
+iter: 625, loss: 5819.408203
+iter: 626, loss: 5815.321777
+iter: 627, loss: 5810.962891
+iter: 628, loss: 5806.608398
+iter: 629, loss: 5802.184570
+iter: 630, loss: 5797.773926
+iter: 631, loss: 5793.345703
+iter: 632, loss: 5789.222656
+iter: 633, loss: 5785.171387
+iter: 634, loss: 5781.408203
+iter: 635, loss: 5777.441406
+iter: 636, loss: 5773.073730
+iter: 637, loss: 5768.639648
+iter: 638, loss: 5764.467773
+iter: 639, loss: 5760.331055
+iter: 640, loss: 5755.935059
+iter: 641, loss: 5751.828613
+iter: 642, loss: 5747.884277
+iter: 643, loss: 5744.148438
+iter: 644, loss: 5740.178711
+iter: 645, loss: 5735.808594
+iter: 646, loss: 5731.425293
+iter: 647, loss: 5727.379395
+iter: 648, loss: 5723.497070
+iter: 649, loss: 5719.315430
+iter: 650, loss: 5715.060547
+iter: 651, loss: 5711.083984
+iter: 652, loss: 5707.313965
+iter: 653, loss: 5703.243164
+iter: 654, loss: 5699.142578
+iter: 655, loss: 5695.217773
+iter: 656, loss: 5691.460938
+iter: 657, loss: 5687.292969
+iter: 658, loss: 5683.289062
+iter: 659, loss: 5678.833984
+iter: 660, loss: 5674.682129
+iter: 661, loss: 5671.049805
+iter: 662, loss: 5667.199219
+iter: 663, loss: 5663.132812
+iter: 664, loss: 5659.309082
+iter: 665, loss: 5655.466797
+iter: 666, loss: 5651.725098
+iter: 667, loss: 5647.963867
+iter: 668, loss: 5644.102539
+iter: 669, loss: 5640.167969
+iter: 670, loss: 5636.375488
+iter: 671, loss: 5632.722656
+iter: 672, loss: 5628.878906
+iter: 673, loss: 5624.926758
+iter: 674, loss: 5621.255859
+iter: 675, loss: 5617.337891
+iter: 676, loss: 5613.209961
+iter: 677, loss: 5609.607422
+iter: 678, loss: 5605.991211
+iter: 679, loss: 5602.118164
+iter: 680, loss: 5598.299805
+iter: 681, loss: 5594.219238
+iter: 682, loss: 5590.044922
+iter: 683, loss: 5586.172852
+iter: 684, loss: 5582.328125
+iter: 685, loss: 5578.309082
+iter: 686, loss: 5574.499023
+iter: 687, loss: 5570.922852
+iter: 688, loss: 5567.203125
+iter: 689, loss: 5563.485352
+iter: 690, loss: 5560.111816
+iter: 691, loss: 5556.962891
+iter: 692, loss: 5553.311523
+iter: 693, loss: 5549.818359
+iter: 694, loss: 5545.925781
+iter: 695, loss: 5542.236816
+iter: 696, loss: 5538.394043
+iter: 697, loss: 5534.372559
+iter: 698, loss: 5530.666992
+iter: 699, loss: 5527.243164
+iter: 700, loss: 5524.001465
+iter: 701, loss: 5520.189453
+iter: 702, loss: 5516.470215
+iter: 703, loss: 5512.779785
+iter: 704, loss: 5509.102539
+iter: 705, loss: 5505.507324
+iter: 706, loss: 5501.761719
+iter: 707, loss: 5497.894531
+iter: 708, loss: 5494.059570
+iter: 709, loss: 5490.218750
+iter: 710, loss: 5486.709961
+iter: 711, loss: 5483.160645
+iter: 712, loss: 5479.645020
+iter: 713, loss: 5476.203125
+iter: 714, loss: 5472.904297
+iter: 715, loss: 5469.611816
+iter: 716, loss: 5466.343262
+iter: 717, loss: 5462.727051
+iter: 718, loss: 5459.194336
+iter: 719, loss: 5455.699219
+iter: 720, loss: 5452.263672
+iter: 721, loss: 5448.779297
+iter: 722, loss: 5445.323242
+iter: 723, loss: 5441.764648
+iter: 724, loss: 5438.314453
+iter: 725, loss: 5435.095215
+iter: 726, loss: 5431.828125
+iter: 727, loss: 5428.313965
+iter: 728, loss: 5424.821289
+iter: 729, loss: 5421.328125
+iter: 730, loss: 5417.750977
+iter: 731, loss: 5414.267578
+iter: 732, loss: 5410.810059
+iter: 733, loss: 5407.186035
+iter: 734, loss: 5403.501953
+iter: 735, loss: 5399.997070
+iter: 736, loss: 5396.465332
+iter: 737, loss: 5393.042969
+iter: 738, loss: 5389.789062
+iter: 739, loss: 5386.532227
+iter: 740, loss: 5383.323730
+iter: 741, loss: 5380.184570
+iter: 742, loss: 5376.925781
+iter: 743, loss: 5373.652344
+iter: 744, loss: 5370.310547
+iter: 745, loss: 5366.888672
+iter: 746, loss: 5363.647461
+iter: 747, loss: 5360.260742
+iter: 748, loss: 5356.834961
+iter: 749, loss: 5353.654297
+iter: 750, loss: 5350.344727
+iter: 751, loss: 5347.063477
+iter: 752, loss: 5343.976562
+iter: 753, loss: 5340.861328
+iter: 754, loss: 5337.645508
+iter: 755, loss: 5334.476562
+iter: 756, loss: 5331.170898
+iter: 757, loss: 5327.819336
+iter: 758, loss: 5324.550781
+iter: 759, loss: 5321.255859
+iter: 760, loss: 5317.936523
+iter: 761, loss: 5314.576172
+iter: 762, loss: 5311.143066
+iter: 763, loss: 5307.841309
+iter: 764, loss: 5304.806641
+iter: 765, loss: 5301.900391
+iter: 766, loss: 5298.958008
+iter: 767, loss: 5295.806641
+iter: 768, loss: 5292.765625
+iter: 769, loss: 5289.705078
+iter: 770, loss: 5286.594727
+iter: 771, loss: 5283.406250
+iter: 772, loss: 5280.089844
+iter: 773, loss: 5276.736328
+iter: 774, loss: 5273.524414
+iter: 775, loss: 5270.322266
+iter: 776, loss: 5267.208008
+iter: 777, loss: 5264.184082
+iter: 778, loss: 5261.222656
+iter: 779, loss: 5258.291016
+iter: 780, loss: 5255.413086
+iter: 781, loss: 5252.549805
+iter: 782, loss: 5249.610352
+iter: 783, loss: 5246.669922
+iter: 784, loss: 5243.668945
+iter: 785, loss: 5240.536621
+iter: 786, loss: 5237.550293
+iter: 787, loss: 5234.641602
+iter: 788, loss: 5231.942871
+iter: 789, loss: 5229.091797
+iter: 790, loss: 5226.041016
+iter: 791, loss: 5223.015625
+iter: 792, loss: 5220.115234
+iter: 793, loss: 5217.369141
+iter: 794, loss: 5214.483887
+iter: 795, loss: 5211.778320
+iter: 796, loss: 5209.067383
+iter: 797, loss: 5206.102539
+iter: 798, loss: 5202.954590
+iter: 799, loss: 5199.902832
+iter: 800, loss: 5196.929688
+iter: 801, loss: 5194.125488
+iter: 802, loss: 5191.539062
+iter: 803, loss: 5188.895020
+iter: 804, loss: 5186.077148
+iter: 805, loss: 5183.208496
+iter: 806, loss: 5180.305664
+iter: 807, loss: 5177.365234
+iter: 808, loss: 5174.479980
+iter: 809, loss: 5171.726562
+iter: 810, loss: 5168.898926
+iter: 811, loss: 5165.990723
+iter: 812, loss: 5163.118164
+iter: 813, loss: 5160.430664
+iter: 814, loss: 5157.551270
+iter: 815, loss: 5154.872070
+iter: 816, loss: 5152.144043
+iter: 817, loss: 5149.379883
+iter: 818, loss: 5146.704590
+iter: 819, loss: 5144.181641
+iter: 820, loss: 5141.570312
+iter: 821, loss: 5138.960449
+iter: 822, loss: 5136.252441
+iter: 823, loss: 5133.497070
+iter: 824, loss: 5130.738281
+iter: 825, loss: 5128.165039
+iter: 826, loss: 5125.656250
+iter: 827, loss: 5123.132324
+iter: 828, loss: 5120.457520
+iter: 829, loss: 5117.963867
+iter: 830, loss: 5115.239746
+iter: 831, loss: 5112.502930
+iter: 832, loss: 5109.936523
+iter: 833, loss: 5107.271484
+iter: 834, loss: 5104.675293
+iter: 835, loss: 5102.080078
+iter: 836, loss: 5099.495117
+iter: 837, loss: 5096.796875
+iter: 838, loss: 5094.176270
+iter: 839, loss: 5091.446289
+iter: 840, loss: 5088.614746
+iter: 841, loss: 5085.940918
+iter: 842, loss: 5083.309570
+iter: 843, loss: 5080.742676
+iter: 844, loss: 5078.158691
+iter: 845, loss: 5075.643555
+iter: 846, loss: 5073.080566
+iter: 847, loss: 5070.532715
+iter: 848, loss: 5067.891113
+iter: 849, loss: 5065.230469
+iter: 850, loss: 5062.740234
+iter: 851, loss: 5060.228027
+iter: 852, loss: 5057.680176
+iter: 853, loss: 5055.196289
+iter: 854, loss: 5052.699219
+iter: 855, loss: 5050.187500
+iter: 856, loss: 5047.600586
+iter: 857, loss: 5044.904297
+iter: 858, loss: 5042.326172
+iter: 859, loss: 5039.799805
+iter: 860, loss: 5037.129883
+iter: 861, loss: 5034.427734
+iter: 862, loss: 5031.710449
+iter: 863, loss: 5029.040527
+iter: 864, loss: 5026.373047
+iter: 865, loss: 5023.787109
+iter: 866, loss: 5021.227539
+iter: 867, loss: 5018.606445
+iter: 868, loss: 5016.140625
+iter: 869, loss: 5013.673340
+iter: 870, loss: 5011.217773
+iter: 871, loss: 5008.770996
+iter: 872, loss: 5006.302246
+iter: 873, loss: 5003.754395
+iter: 874, loss: 5001.201172
+iter: 875, loss: 4998.933594
+iter: 876, loss: 4996.765137
+iter: 877, loss: 4994.536133
+iter: 878, loss: 4992.107422
+iter: 879, loss: 4989.583008
+iter: 880, loss: 4987.044922
+iter: 881, loss: 4984.664062
+iter: 882, loss: 4982.340332
+iter: 883, loss: 4979.819336
+iter: 884, loss: 4977.253418
+iter: 885, loss: 4974.785156
+iter: 886, loss: 4972.346680
+iter: 887, loss: 4969.913086
+iter: 888, loss: 4967.461914
+iter: 889, loss: 4964.972168
+iter: 890, loss: 4962.426270
+iter: 891, loss: 4959.981934
+iter: 892, loss: 4957.625488
+iter: 893, loss: 4955.254883
+iter: 894, loss: 4952.910156
+iter: 895, loss: 4950.629395
+iter: 896, loss: 4948.212891
+iter: 897, loss: 4945.802734
+iter: 898, loss: 4943.428223
+iter: 899, loss: 4940.890625
+iter: 900, loss: 4938.444336
+iter: 901, loss: 4936.178223
+iter: 902, loss: 4933.858887
+iter: 903, loss: 4931.605469
+iter: 904, loss: 4929.326660
+iter: 905, loss: 4927.107422
+iter: 906, loss: 4924.958984
+iter: 907, loss: 4922.809570
+iter: 908, loss: 4920.625977
+iter: 909, loss: 4918.333496
+iter: 910, loss: 4915.974609
+iter: 911, loss: 4913.576660
+iter: 912, loss: 4911.350586
+iter: 913, loss: 4909.135254
+iter: 914, loss: 4906.897461
+iter: 915, loss: 4904.703125
+iter: 916, loss: 4902.470703
+iter: 917, loss: 4900.184082
+iter: 918, loss: 4897.842773
+iter: 919, loss: 4895.573242
+iter: 920, loss: 4893.487305
+iter: 921, loss: 4891.492676
+iter: 922, loss: 4889.496094
+iter: 923, loss: 4887.441895
+iter: 924, loss: 4885.276367
+iter: 925, loss: 4883.190430
+iter: 926, loss: 4880.971191
+iter: 927, loss: 4878.732422
+iter: 928, loss: 4876.571777
+iter: 929, loss: 4874.357422
+iter: 930, loss: 4871.962891
+iter: 931, loss: 4869.828125
+iter: 932, loss: 4867.727051
+iter: 933, loss: 4865.566895
+iter: 934, loss: 4863.423340
+iter: 935, loss: 4861.329102
+iter: 936, loss: 4859.153809
+iter: 937, loss: 4857.107910
+iter: 938, loss: 4855.049805
+iter: 939, loss: 4852.930176
+iter: 940, loss: 4850.891602
+iter: 941, loss: 4848.720215
+iter: 942, loss: 4846.531250
+iter: 943, loss: 4844.409668
+iter: 944, loss: 4842.328613
+iter: 945, loss: 4840.349609
+iter: 946, loss: 4838.396973
+iter: 947, loss: 4836.367188
+iter: 948, loss: 4834.232422
+iter: 949, loss: 4832.095703
+iter: 950, loss: 4829.995605
+iter: 951, loss: 4827.848633
+iter: 952, loss: 4825.743652
+iter: 953, loss: 4823.610840
+iter: 954, loss: 4821.371582
+iter: 955, loss: 4819.121094
+iter: 956, loss: 4816.929688
+iter: 957, loss: 4814.824219
+iter: 958, loss: 4812.824707
+iter: 959, loss: 4810.679688
+iter: 960, loss: 4808.552734
+iter: 961, loss: 4806.462891
+iter: 962, loss: 4804.316895
+iter: 963, loss: 4802.337891
+iter: 964, loss: 4800.329590
+iter: 965, loss: 4798.288574
+iter: 966, loss: 4796.258789
+iter: 967, loss: 4794.202148
+iter: 968, loss: 4792.146484
+iter: 969, loss: 4790.119141
+iter: 970, loss: 4788.122070
+iter: 971, loss: 4786.152344
+iter: 972, loss: 4784.240234
+iter: 973, loss: 4782.309570
+iter: 974, loss: 4780.300293
+iter: 975, loss: 4778.191406
+iter: 976, loss: 4776.112793
+iter: 977, loss: 4774.055176
+iter: 978, loss: 4772.117188
+iter: 979, loss: 4770.092773
+iter: 980, loss: 4768.007324
+iter: 981, loss: 4765.955078
+iter: 982, loss: 4763.855957
+iter: 983, loss: 4761.820801
+iter: 984, loss: 4759.865234
+iter: 985, loss: 4757.977539
+iter: 986, loss: 4756.000488
+iter: 987, loss: 4754.035645
+iter: 988, loss: 4751.987305
+iter: 989, loss: 4749.818848
+iter: 990, loss: 4747.889648
+iter: 991, loss: 4746.059082
+iter: 992, loss: 4744.095703
+iter: 993, loss: 4742.151367
+iter: 994, loss: 4740.198730
+iter: 995, loss: 4738.115234
+iter: 996, loss: 4736.157227
+iter: 997, loss: 4734.298828
+iter: 998, loss: 4732.363281
+iter: 999, loss: 4730.416016
+iter: 1000, loss: 4728.481445
+iter: 1001, loss: 4726.502930
+iter: 1002, loss: 4724.577148
+iter: 1003, loss: 4722.687012
+iter: 1004, loss: 4720.833008
+iter: 1005, loss: 4718.970703
+iter: 1006, loss: 4717.151855
+iter: 1007, loss: 4715.282715
+iter: 1008, loss: 4713.354492
+iter: 1009, loss: 4711.418457
+iter: 1010, loss: 4709.434082
+iter: 1011, loss: 4707.483398
+iter: 1012, loss: 4705.564941
+iter: 1013, loss: 4703.719727
+iter: 1014, loss: 4701.814453
+iter: 1015, loss: 4699.822754
+iter: 1016, loss: 4697.892090
+iter: 1017, loss: 4695.958496
+iter: 1018, loss: 4694.071289
+iter: 1019, loss: 4692.146973
+iter: 1020, loss: 4690.305176
+iter: 1021, loss: 4688.496094
+iter: 1022, loss: 4686.544434
+iter: 1023, loss: 4684.601562
+iter: 1024, loss: 4682.686523
+iter: 1025, loss: 4680.711426
+iter: 1026, loss: 4678.848145
+iter: 1027, loss: 4676.954102
+iter: 1028, loss: 4674.971191
+iter: 1029, loss: 4673.030273
+iter: 1030, loss: 4671.120117
+iter: 1031, loss: 4669.207031
+iter: 1032, loss: 4667.372070
+iter: 1033, loss: 4665.492188
+iter: 1034, loss: 4663.683105
+iter: 1035, loss: 4986.448242
+iter: 1036, loss: 4974.975098
+iter: 1037, loss: 4961.712402
+iter: 1038, loss: 4946.214844
+iter: 1039, loss: 4936.509766
+iter: 1040, loss: 4927.071777
+iter: 1041, loss: 4916.566406
+iter: 1042, loss: 4907.942383
+iter: 1043, loss: 4897.370117
+iter: 1044, loss: 4888.823242
+iter: 1045, loss: 4881.513672
+iter: 1046, loss: 4873.724121
+iter: 1047, loss: 4867.062012
+iter: 1048, loss: 4860.318359
+iter: 1049, loss: 4853.686523
+iter: 1050, loss: 4848.711426
+iter: 1051, loss: 4843.236816
+iter: 1052, loss: 4837.557129
+iter: 1053, loss: 4832.769043
+iter: 1054, loss: 4827.718750
+iter: 1055, loss: 4823.223633
+iter: 1056, loss: 4818.893555
+iter: 1057, loss: 4814.692383
+iter: 1058, loss: 4810.384277
+iter: 1059, loss: 4806.135742
+iter: 1060, loss: 4802.286621
+iter: 1061, loss: 4798.287598
+iter: 1062, loss: 4794.007812
+iter: 1063, loss: 4790.312500
+iter: 1064, loss: 4786.576172
+iter: 1065, loss: 4782.879883
+iter: 1066, loss: 4779.705078
+iter: 1067, loss: 4776.270996
+iter: 1068, loss: 4772.967773
+iter: 1069, loss: 4770.050781
+iter: 1070, loss: 4767.105957
+iter: 1071, loss: 4763.972168
+iter: 1072, loss: 4760.762695
+iter: 1073, loss: 4757.594238
+iter: 1074, loss: 4754.547363
+iter: 1075, loss: 4751.627441
+iter: 1076, loss: 4749.039551
+iter: 1077, loss: 4746.613281
+iter: 1078, loss: 4744.061523
+iter: 1079, loss: 4741.476562
+iter: 1080, loss: 4738.880371
+iter: 1081, loss: 4736.301270
+iter: 1082, loss: 4733.912598
+iter: 1083, loss: 4731.386230
+iter: 1084, loss: 4728.701172
+iter: 1085, loss: 4726.101562
+iter: 1086, loss: 4723.784180
+iter: 1087, loss: 4721.390625
+iter: 1088, loss: 4718.798828
+iter: 1089, loss: 4716.369629
+iter: 1090, loss: 4714.010742
+iter: 1091, loss: 4711.536621
+iter: 1092, loss: 4709.275391
+iter: 1093, loss: 4706.989258
+iter: 1094, loss: 4704.729492
+iter: 1095, loss: 4702.629883
+iter: 1096, loss: 4700.439453
+iter: 1097, loss: 4698.229004
+iter: 1098, loss: 4696.238281
+iter: 1099, loss: 4694.346680
+iter: 1100, loss: 4692.402832
+iter: 1101, loss: 4690.544434
+iter: 1102, loss: 4688.625488
+iter: 1103, loss: 4686.549805
+iter: 1104, loss: 4684.567383
+iter: 1105, loss: 4682.678223
+iter: 1106, loss: 4680.696289
+iter: 1107, loss: 4678.701172
+iter: 1108, loss: 4676.779297
+iter: 1109, loss: 4674.856445
+iter: 1110, loss: 4673.082031
+iter: 1111, loss: 4671.357422
+iter: 1112, loss: 4669.587402
+iter: 1113, loss: 4667.826172
+iter: 1114, loss: 4665.959473
+iter: 1115, loss: 4664.150391
+iter: 1116, loss: 4662.323242
+iter: 1117, loss: 4660.490234
+iter: 1118, loss: 4658.726562
+iter: 1119, loss: 4656.924805
+iter: 1120, loss: 4655.145020
+iter: 1121, loss: 4653.379395
+iter: 1122, loss: 4651.616699
+iter: 1123, loss: 4649.890137
+iter: 1124, loss: 4648.202637
+iter: 1125, loss: 4646.551270
+iter: 1126, loss: 4644.815430
+iter: 1127, loss: 4643.161621
+iter: 1128, loss: 4641.548828
+iter: 1129, loss: 4639.859375
+iter: 1130, loss: 4638.188965
+iter: 1131, loss: 4636.585938
+iter: 1132, loss: 4634.994629
+iter: 1133, loss: 4633.512695
+iter: 1134, loss: 4631.964844
+iter: 1135, loss: 4630.352539
+iter: 1136, loss: 4628.838379
+iter: 1137, loss: 4627.340820
+iter: 1138, loss: 4625.829102
+iter: 1139, loss: 4624.322754
+iter: 1140, loss: 4622.808594
+iter: 1141, loss: 4621.233887
+iter: 1142, loss: 4619.633789
+iter: 1143, loss: 4618.024414
+iter: 1144, loss: 4616.334961
+iter: 1145, loss: 4614.715820
+iter: 1146, loss: 4613.124512
+iter: 1147, loss: 4611.567383
+iter: 1148, loss: 4609.914062
+iter: 1149, loss: 4608.375977
+iter: 1150, loss: 4606.831055
+iter: 1151, loss: 4605.287109
+iter: 1152, loss: 4603.798340
+iter: 1153, loss: 4602.327148
+iter: 1154, loss: 4600.835938
+iter: 1155, loss: 4599.425781
+iter: 1156, loss: 4597.988281
+iter: 1157, loss: 4596.481934
+iter: 1158, loss: 4595.026367
+iter: 1159, loss: 4593.651367
+iter: 1160, loss: 4592.210938
+iter: 1161, loss: 4590.736328
+iter: 1162, loss: 4589.355957
+iter: 1163, loss: 4587.889160
+iter: 1164, loss: 4586.374023
+iter: 1165, loss: 4584.884766
+iter: 1166, loss: 4583.386719
+iter: 1167, loss: 4581.810059
+iter: 1168, loss: 4580.299805
+iter: 1169, loss: 4578.894531
+iter: 1170, loss: 4577.357910
+iter: 1171, loss: 4575.841797
+iter: 1172, loss: 4574.388184
+iter: 1173, loss: 4572.829102
+iter: 1174, loss: 4571.233398
+iter: 1175, loss: 4569.716309
+iter: 1176, loss: 4568.189453
+iter: 1177, loss: 4566.613770
+iter: 1178, loss: 4565.127930
+iter: 1179, loss: 4563.612793
+iter: 1180, loss: 4562.124023
+iter: 1181, loss: 4560.627930
+iter: 1182, loss: 4559.198242
+iter: 1183, loss: 4557.789551
+iter: 1184, loss: 4556.466797
+iter: 1185, loss: 4555.061035
+iter: 1186, loss: 4553.636719
+iter: 1187, loss: 4552.297363
+iter: 1188, loss: 4550.921875
+iter: 1189, loss: 4549.594727
+iter: 1190, loss: 4548.250488
+iter: 1191, loss: 4546.875488
+iter: 1192, loss: 4545.505859
+iter: 1193, loss: 4544.097656
+iter: 1194, loss: 4542.661133
+iter: 1195, loss: 4541.227051
+iter: 1196, loss: 4539.856445
+iter: 1197, loss: 4538.488770
+iter: 1198, loss: 4537.164062
+iter: 1199, loss: 4535.782227
+iter: 1200, loss: 4534.339355
+iter: 1201, loss: 4532.923828
+iter: 1202, loss: 4531.539551
+iter: 1203, loss: 4530.104980
+iter: 1204, loss: 4528.694336
+iter: 1205, loss: 4527.289551
+iter: 1206, loss: 4525.921875
+iter: 1207, loss: 4524.536133
+iter: 1208, loss: 4523.118652
+iter: 1209, loss: 4521.725586
+iter: 1210, loss: 4520.351074
+iter: 1211, loss: 4518.999023
+iter: 1212, loss: 4517.583008
+iter: 1213, loss: 4516.220703
+iter: 1214, loss: 4514.956543
+iter: 1215, loss: 4513.599609
+iter: 1216, loss: 4512.191895
+iter: 1217, loss: 4510.773926
+iter: 1218, loss: 4509.354492
+iter: 1219, loss: 4508.022461
+iter: 1220, loss: 4506.726562
+iter: 1221, loss: 4505.313965
+iter: 1222, loss: 4503.935059
+iter: 1223, loss: 4502.632812
+iter: 1224, loss: 4501.301758
+iter: 1225, loss: 4500.061523
+iter: 1226, loss: 4498.826172
+iter: 1227, loss: 4497.531250
+iter: 1228, loss: 4496.253418
+iter: 1229, loss: 4494.947266
+iter: 1230, loss: 4493.584961
+iter: 1231, loss: 4492.202637
+iter: 1232, loss: 4490.804199
+iter: 1233, loss: 4489.416992
+iter: 1234, loss: 4488.085449
+iter: 1235, loss: 4486.731445
+iter: 1236, loss: 4485.369629
+iter: 1237, loss: 4484.039062
+iter: 1238, loss: 4482.687500
+iter: 1239, loss: 4481.341797
+iter: 1240, loss: 4479.968262
+iter: 1241, loss: 4478.599121
+iter: 1242, loss: 4477.248047
+iter: 1243, loss: 4475.894531
+iter: 1244, loss: 4474.577637
+iter: 1245, loss: 4473.189941
+iter: 1246, loss: 4471.839844
+iter: 1247, loss: 4470.482422
+iter: 1248, loss: 4469.098633
+iter: 1249, loss: 4467.758789
+iter: 1250, loss: 4466.418457
+iter: 1251, loss: 4465.085938
+iter: 1252, loss: 4463.722656
+iter: 1253, loss: 4462.360840
+iter: 1254, loss: 4460.989746
+iter: 1255, loss: 4459.626953
+iter: 1256, loss: 4458.243652
+iter: 1257, loss: 4456.891602
+iter: 1258, loss: 4455.511230
+iter: 1259, loss: 4454.136719
+iter: 1260, loss: 4452.805664
+iter: 1261, loss: 4451.405273
+iter: 1262, loss: 4450.026367
+iter: 1263, loss: 4448.656250
+iter: 1264, loss: 4447.290039
+iter: 1265, loss: 4445.989258
+iter: 1266, loss: 4444.617188
+iter: 1267, loss: 4443.221680
+iter: 1268, loss: 4441.818359
+iter: 1269, loss: 4440.440430
+iter: 1270, loss: 4439.129883
+iter: 1271, loss: 4437.755859
+iter: 1272, loss: 4436.287109
+iter: 1273, loss: 4434.863281
+iter: 1274, loss: 4433.392090
+iter: 1275, loss: 4431.982422
+iter: 1276, loss: 4430.541504
+iter: 1277, loss: 4429.065430
+iter: 1278, loss: 4427.601074
+iter: 1279, loss: 4426.160156
+iter: 1280, loss: 4424.767090
+iter: 1281, loss: 4423.327148
+iter: 1282, loss: 4421.887695
+iter: 1283, loss: 4420.461426
+iter: 1284, loss: 4419.034180
+iter: 1285, loss: 4417.618164
+iter: 1286, loss: 4416.243164
+iter: 1287, loss: 4414.857422
+iter: 1288, loss: 4413.469238
+iter: 1289, loss: 4412.086914
+iter: 1290, loss: 4410.683594
+iter: 1291, loss: 4409.226562
+iter: 1292, loss: 4407.866699
+iter: 1293, loss: 4406.549316
+iter: 1294, loss: 4405.274414
+iter: 1295, loss: 4403.992676
+iter: 1296, loss: 4402.645020
+iter: 1297, loss: 4401.259766
+iter: 1298, loss: 4399.910645
+iter: 1299, loss: 4398.553223
+iter: 1300, loss: 4397.216797
+iter: 1301, loss: 4395.883789
+iter: 1302, loss: 4394.554688
+iter: 1303, loss: 4393.252930
+iter: 1304, loss: 4391.929688
+iter: 1305, loss: 4390.569336
+iter: 1306, loss: 4389.246582
+iter: 1307, loss: 4387.997070
+iter: 1308, loss: 4386.735352
+iter: 1309, loss: 4385.480469
+iter: 1310, loss: 4384.215332
+iter: 1311, loss: 4382.877930
+iter: 1312, loss: 4381.555664
+iter: 1313, loss: 4380.238770
+iter: 1314, loss: 4378.959961
+iter: 1315, loss: 4377.628418
+iter: 1316, loss: 4376.343262
+iter: 1317, loss: 4375.059570
+iter: 1318, loss: 4373.755371
+iter: 1319, loss: 4372.455078
+iter: 1320, loss: 4371.218262
+iter: 1321, loss: 4369.938477
+iter: 1322, loss: 4368.611328
+iter: 1323, loss: 4367.362793
+iter: 1324, loss: 4366.077148
+iter: 1325, loss: 4364.839844
+iter: 1326, loss: 4363.549316
+iter: 1327, loss: 4362.327637
+iter: 1328, loss: 4361.062500
+iter: 1329, loss: 4359.781738
+iter: 1330, loss: 4358.574707
+iter: 1331, loss: 4357.352539
+iter: 1332, loss: 4356.143555
+iter: 1333, loss: 4354.908691
+iter: 1334, loss: 4353.677734
+iter: 1335, loss: 4352.465332
+iter: 1336, loss: 4351.194336
+iter: 1337, loss: 4349.876953
+iter: 1338, loss: 4348.616211
+iter: 1339, loss: 4347.330566
+iter: 1340, loss: 4345.954590
+iter: 1341, loss: 4344.658691
+iter: 1342, loss: 4343.343262
+iter: 1343, loss: 4342.013672
+iter: 1344, loss: 4340.743652
+iter: 1345, loss: 4339.482910
+iter: 1346, loss: 4338.180664
+iter: 1347, loss: 4336.904785
+iter: 1348, loss: 4335.692383
+iter: 1349, loss: 4334.441406
+iter: 1350, loss: 4333.187500
+iter: 1351, loss: 4331.948242
+iter: 1352, loss: 4330.741699
+iter: 1353, loss: 4329.454590
+iter: 1354, loss: 4328.230469
+iter: 1355, loss: 4327.005859
+iter: 1356, loss: 4325.739258
+iter: 1357, loss: 4324.495117
+iter: 1358, loss: 4323.248047
+iter: 1359, loss: 4321.979492
+iter: 1360, loss: 4320.705078
+iter: 1361, loss: 4319.514648
+iter: 1362, loss: 4318.323242
+iter: 1363, loss: 4317.038086
+iter: 1364, loss: 4315.822266
+iter: 1365, loss: 4314.606445
+iter: 1366, loss: 4313.389160
+iter: 1367, loss: 4312.255859
+iter: 1368, loss: 4311.064941
+iter: 1369, loss: 4309.886230
+iter: 1370, loss: 4308.754883
+iter: 1371, loss: 4307.531250
+iter: 1372, loss: 4306.331055
+iter: 1373, loss: 4305.091309
+iter: 1374, loss: 4303.836914
+iter: 1375, loss: 4302.595703
+iter: 1376, loss: 4301.371582
+iter: 1377, loss: 4300.163574
+iter: 1378, loss: 4299.014648
+iter: 1379, loss: 4297.866211
+iter: 1380, loss: 4296.661621
+iter: 1381, loss: 4295.449707
+iter: 1382, loss: 4294.255859
+iter: 1383, loss: 4293.041992
+iter: 1384, loss: 4291.837402
+iter: 1385, loss: 4290.629395
+iter: 1386, loss: 4289.429688
+iter: 1387, loss: 4288.263672
+iter: 1388, loss: 4287.150879
+iter: 1389, loss: 4286.015625
+iter: 1390, loss: 4284.868164
+iter: 1391, loss: 4283.710938
+iter: 1392, loss: 4282.557617
+iter: 1393, loss: 4281.429688
+iter: 1394, loss: 4280.316406
+iter: 1395, loss: 4279.144531
+iter: 1396, loss: 4277.941406
+iter: 1397, loss: 4276.802734
+iter: 1398, loss: 4275.656738
+iter: 1399, loss: 4274.521973
+iter: 1400, loss: 4273.400879
+iter: 1401, loss: 4272.243164
+iter: 1402, loss: 4271.073730
+iter: 1403, loss: 4269.984375
+iter: 1404, loss: 4268.871094
+iter: 1405, loss: 4267.784180
+iter: 1406, loss: 4266.691406
+iter: 1407, loss: 4265.513672
+iter: 1408, loss: 4264.352539
+iter: 1409, loss: 4263.212891
+iter: 1410, loss: 4262.098633
+iter: 1411, loss: 4260.972656
+iter: 1412, loss: 4259.828125
+iter: 1413, loss: 4258.672852
+iter: 1414, loss: 4257.518555
+iter: 1415, loss: 4256.389648
+iter: 1416, loss: 4255.265625
+iter: 1417, loss: 4254.176758
+iter: 1418, loss: 4253.028809
+iter: 1419, loss: 4251.899414
+iter: 1420, loss: 4250.720215
+iter: 1421, loss: 4249.484375
+iter: 1422, loss: 4248.311523
+iter: 1423, loss: 4247.187500
+iter: 1424, loss: 4246.060059
+iter: 1425, loss: 4244.909180
+iter: 1426, loss: 4243.757324
+iter: 1427, loss: 4242.632812
+iter: 1428, loss: 4241.514648
+iter: 1429, loss: 4240.443359
+iter: 1430, loss: 4239.354004
+iter: 1431, loss: 4238.243164
+iter: 1432, loss: 4237.200195
+iter: 1433, loss: 4236.114746
+iter: 1434, loss: 4235.004883
+iter: 1435, loss: 4233.963867
+iter: 1436, loss: 4232.912109
+iter: 1437, loss: 4231.848145
+iter: 1438, loss: 4230.774414
+iter: 1439, loss: 4229.750488
+iter: 1440, loss: 4228.673340
+iter: 1441, loss: 4227.613281
+iter: 1442, loss: 4226.552734
+iter: 1443, loss: 4225.439453
+iter: 1444, loss: 4224.331055
+iter: 1445, loss: 4223.207520
+iter: 1446, loss: 4222.096191
+iter: 1447, loss: 4221.007812
+iter: 1448, loss: 4219.935059
+iter: 1449, loss: 4218.823242
+iter: 1450, loss: 4217.686523
+iter: 1451, loss: 4216.547852
+iter: 1452, loss: 4215.465820
+iter: 1453, loss: 4214.431641
+iter: 1454, loss: 4213.405762
+iter: 1455, loss: 4212.355469
+iter: 1456, loss: 4211.339355
+iter: 1457, loss: 4210.328613
+iter: 1458, loss: 4209.253906
+iter: 1459, loss: 4208.246094
+iter: 1460, loss: 4207.262207
+iter: 1461, loss: 4206.264160
+iter: 1462, loss: 4205.216309
+iter: 1463, loss: 4204.137207
+iter: 1464, loss: 4203.082031
+iter: 1465, loss: 4202.036621
+iter: 1466, loss: 4201.000000
+iter: 1467, loss: 4199.988770
+iter: 1468, loss: 4199.025391
+iter: 1469, loss: 4198.049805
+iter: 1470, loss: 4197.084473
+iter: 1471, loss: 4196.069824
+iter: 1472, loss: 4195.097656
+iter: 1473, loss: 4194.063965
+iter: 1474, loss: 4193.051758
+iter: 1475, loss: 4192.032227
+iter: 1476, loss: 4191.032715
+iter: 1477, loss: 4190.062500
+iter: 1478, loss: 4189.088379
+iter: 1479, loss: 4188.094238
+iter: 1480, loss: 4187.083008
+iter: 1481, loss: 4186.077148
+iter: 1482, loss: 4185.074707
+iter: 1483, loss: 4184.082031
+iter: 1484, loss: 4183.132812
+iter: 1485, loss: 4182.146484
+iter: 1486, loss: 4181.128906
+iter: 1487, loss: 4180.155273
+iter: 1488, loss: 4179.193359
+iter: 1489, loss: 4178.231934
+iter: 1490, loss: 4177.208496
+iter: 1491, loss: 4176.216797
+iter: 1492, loss: 4175.215332
+iter: 1493, loss: 4174.243164
+iter: 1494, loss: 4173.266113
+iter: 1495, loss: 4172.297852
+iter: 1496, loss: 4171.360840
+iter: 1497, loss: 4170.416504
+iter: 1498, loss: 4169.422852
+iter: 1499, loss: 4168.411133
+iter: 1500, loss: 4167.421387
+iter: 1501, loss: 4166.467773
+iter: 1502, loss: 4165.541504
+iter: 1503, loss: 4164.641113
+iter: 1504, loss: 4163.720215
+iter: 1505, loss: 4162.788574
+iter: 1506, loss: 4161.862305
+iter: 1507, loss: 4160.929688
+iter: 1508, loss: 4159.967285
+iter: 1509, loss: 4158.994629
+iter: 1510, loss: 4158.060547
+iter: 1511, loss: 4157.100586
+iter: 1512, loss: 4156.151855
+iter: 1513, loss: 4155.201172
+iter: 1514, loss: 4154.240234
+iter: 1515, loss: 4153.298828
+iter: 1516, loss: 4152.357422
+iter: 1517, loss: 4151.426270
+iter: 1518, loss: 4150.430176
+iter: 1519, loss: 4149.466797
+iter: 1520, loss: 4148.498047
+iter: 1521, loss: 4147.526367
+iter: 1522, loss: 4146.583496
+iter: 1523, loss: 4145.586426
+iter: 1524, loss: 4144.586426
+iter: 1525, loss: 4143.590820
+iter: 1526, loss: 4142.608398
+iter: 1527, loss: 4141.624512
+iter: 1528, loss: 4140.655762
+iter: 1529, loss: 4139.720215
+iter: 1530, loss: 4138.732422
+iter: 1531, loss: 4137.764160
+iter: 1532, loss: 4136.809570
+iter: 1533, loss: 4135.790527
+iter: 1534, loss: 4134.837891
+iter: 1535, loss: 4133.893555
+iter: 1536, loss: 4132.942383
+iter: 1537, loss: 4131.976562
+iter: 1538, loss: 4131.020996
+iter: 1539, loss: 4130.021484
+iter: 1540, loss: 4128.991211
+iter: 1541, loss: 4128.047852
+iter: 1542, loss: 4127.046875
+iter: 1543, loss: 4126.015137
+iter: 1544, loss: 4125.094727
+iter: 1545, loss: 4124.090332
+iter: 1546, loss: 4123.100586
+iter: 1547, loss: 4122.142578
+iter: 1548, loss: 4121.135742
+iter: 1549, loss: 4120.184570
+iter: 1550, loss: 4119.222656
+iter: 1551, loss: 4118.225586
+iter: 1552, loss: 4117.261230
+iter: 1553, loss: 4116.331055
+iter: 1554, loss: 4115.410156
+iter: 1555, loss: 4114.496094
+iter: 1556, loss: 4113.596680
+iter: 1557, loss: 4112.675781
+iter: 1558, loss: 4111.749512
+iter: 1559, loss: 4110.854492
+iter: 1560, loss: 4109.939453
+iter: 1561, loss: 4108.994141
+iter: 1562, loss: 4108.119141
+iter: 1563, loss: 4107.242676
+iter: 1564, loss: 4106.348633
+iter: 1565, loss: 4105.411133
+iter: 1566, loss: 4104.494629
+iter: 1567, loss: 4103.592773
+iter: 1568, loss: 4102.666992
+iter: 1569, loss: 4101.733398
+iter: 1570, loss: 4100.793945
+iter: 1571, loss: 4099.844238
+iter: 1572, loss: 4098.938965
+iter: 1573, loss: 4098.029297
+iter: 1574, loss: 4097.098633
+iter: 1575, loss: 4096.169922
+iter: 1576, loss: 4095.256348
+iter: 1577, loss: 4094.354980
+iter: 1578, loss: 4093.458008
+iter: 1579, loss: 4092.543945
+iter: 1580, loss: 4091.643555
+iter: 1581, loss: 4090.718262
+iter: 1582, loss: 4089.869629
+iter: 1583, loss: 4088.977539
+iter: 1584, loss: 4088.089355
+iter: 1585, loss: 4087.234375
+iter: 1586, loss: 4086.336426
+iter: 1587, loss: 4085.465332
+iter: 1588, loss: 4084.587402
+iter: 1589, loss: 4083.687012
+iter: 1590, loss: 4082.834961
+iter: 1591, loss: 4081.940674
+iter: 1592, loss: 4081.004395
+iter: 1593, loss: 4080.120850
+iter: 1594, loss: 4079.237549
+iter: 1595, loss: 4078.349854
+iter: 1596, loss: 4077.535889
+iter: 1597, loss: 4076.658203
+iter: 1598, loss: 4075.761230
+iter: 1599, loss: 4074.880127
+iter: 1600, loss: 4073.970215
+iter: 1601, loss: 4073.089355
+iter: 1602, loss: 4072.144775
+iter: 1603, loss: 4071.202148
+iter: 1604, loss: 4070.335938
+iter: 1605, loss: 4069.431641
+iter: 1606, loss: 4068.525879
+iter: 1607, loss: 4067.656982
+iter: 1608, loss: 4066.760254
+iter: 1609, loss: 4065.917969
+iter: 1610, loss: 4065.094238
+iter: 1611, loss: 4064.225098
+iter: 1612, loss: 4063.340088
+iter: 1613, loss: 4062.443115
+iter: 1614, loss: 4061.566406
+iter: 1615, loss: 4060.726562
+iter: 1616, loss: 4059.873535
+iter: 1617, loss: 4058.972656
+iter: 1618, loss: 4058.096191
+iter: 1619, loss: 4057.246094
+iter: 1620, loss: 4056.378662
+iter: 1621, loss: 4055.514648
+iter: 1622, loss: 4054.665771
+iter: 1623, loss: 4053.797119
+iter: 1624, loss: 4052.854980
+iter: 1625, loss: 4052.017090
+iter: 1626, loss: 4051.162109
+iter: 1627, loss: 4050.233154
+iter: 1628, loss: 4049.406738
+iter: 1629, loss: 4048.572754
+iter: 1630, loss: 4047.682129
+iter: 1631, loss: 4046.830566
+iter: 1632, loss: 4045.981445
+iter: 1633, loss: 4045.112061
+iter: 1634, loss: 4044.234375
+iter: 1635, loss: 4043.370117
+iter: 1636, loss: 4042.504395
+iter: 1637, loss: 4041.664795
+iter: 1638, loss: 4040.812500
+iter: 1639, loss: 4039.986084
+iter: 1640, loss: 4039.150391
+iter: 1641, loss: 4038.329590
+iter: 1642, loss: 4037.485840
+iter: 1643, loss: 4036.636230
+iter: 1644, loss: 4035.780762
+iter: 1645, loss: 4034.960938
+iter: 1646, loss: 4034.139648
+iter: 1647, loss: 4033.312988
+iter: 1648, loss: 4032.464600
+iter: 1649, loss: 4031.581055
+iter: 1650, loss: 4030.734863
+iter: 1651, loss: 4029.890137
+iter: 1652, loss: 4029.094727
+iter: 1653, loss: 4028.286621
+iter: 1654, loss: 4027.457520
+iter: 1655, loss: 4026.666504
+iter: 1656, loss: 4025.863770
+iter: 1657, loss: 4025.064941
+iter: 1658, loss: 4024.257080
+iter: 1659, loss: 4023.447754
+iter: 1660, loss: 4022.642334
+iter: 1661, loss: 4021.866211
+iter: 1662, loss: 4021.046387
+iter: 1663, loss: 4020.247314
+iter: 1664, loss: 4019.452148
+iter: 1665, loss: 4018.652344
+iter: 1666, loss: 4017.850098
+iter: 1667, loss: 4017.072998
+iter: 1668, loss: 4016.284180
+iter: 1669, loss: 4015.468750
+iter: 1670, loss: 4014.662598
+iter: 1671, loss: 4013.835938
+iter: 1672, loss: 4012.986816
+iter: 1673, loss: 4012.168457
+iter: 1674, loss: 4011.412109
+iter: 1675, loss: 4010.660156
+iter: 1676, loss: 4009.887451
+iter: 1677, loss: 4009.115723
+iter: 1678, loss: 4008.343262
+iter: 1679, loss: 4007.584717
+iter: 1680, loss: 4006.821289
+iter: 1681, loss: 4006.069824
+iter: 1682, loss: 4005.312500
+iter: 1683, loss: 4004.494141
+iter: 1684, loss: 4003.727539
+iter: 1685, loss: 4002.951172
+iter: 1686, loss: 4002.155518
+iter: 1687, loss: 4001.395996
+iter: 1688, loss: 4000.615234
+iter: 1689, loss: 3999.815430
+iter: 1690, loss: 3999.042969
+iter: 1691, loss: 3998.291504
+iter: 1692, loss: 3997.508545
+iter: 1693, loss: 3996.710449
+iter: 1694, loss: 3995.962158
+iter: 1695, loss: 3995.213379
+iter: 1696, loss: 3994.450684
+iter: 1697, loss: 3993.702881
+iter: 1698, loss: 3992.945068
+iter: 1699, loss: 3992.202881
+iter: 1700, loss: 3991.491211
+iter: 1701, loss: 3990.754883
+iter: 1702, loss: 3990.016602
+iter: 1703, loss: 3989.275879
+iter: 1704, loss: 3988.548096
+iter: 1705, loss: 3987.823730
+iter: 1706, loss: 3987.103027
+iter: 1707, loss: 3986.399414
+iter: 1708, loss: 3985.710205
+iter: 1709, loss: 3985.024902
+iter: 1710, loss: 3984.348145
+iter: 1711, loss: 3983.641113
+iter: 1712, loss: 3982.937744
+iter: 1713, loss: 3982.244873
+iter: 1714, loss: 3981.530273
+iter: 1715, loss: 3980.815430
+iter: 1716, loss: 3980.143799
+iter: 1717, loss: 3979.467773
+iter: 1718, loss: 3978.762207
+iter: 1719, loss: 3978.088867
+iter: 1720, loss: 3977.386475
+iter: 1721, loss: 3976.679688
+iter: 1722, loss: 3975.970459
+iter: 1723, loss: 3975.274414
+iter: 1724, loss: 3974.536377
+iter: 1725, loss: 3973.819336
+iter: 1726, loss: 3973.094727
+iter: 1727, loss: 3972.349121
+iter: 1728, loss: 3971.617676
+iter: 1729, loss: 3970.919434
+iter: 1730, loss: 3970.192871
+iter: 1731, loss: 3969.492188
+iter: 1732, loss: 3968.799805
+iter: 1733, loss: 3968.067383
+iter: 1734, loss: 3967.385498
+iter: 1735, loss: 3966.686035
+iter: 1736, loss: 3965.982422
+iter: 1737, loss: 3965.294434
+iter: 1738, loss: 3964.605225
+iter: 1739, loss: 3963.885010
+iter: 1740, loss: 3963.198242
+iter: 1741, loss: 3962.506104
+iter: 1742, loss: 3961.823242
+iter: 1743, loss: 3961.144043
+iter: 1744, loss: 3960.462402
+iter: 1745, loss: 3959.778076
+iter: 1746, loss: 3959.097168
+iter: 1747, loss: 3958.421875
+iter: 1748, loss: 3957.773926
+iter: 1749, loss: 3957.117676
+iter: 1750, loss: 3956.435791
+iter: 1751, loss: 3955.760986
+iter: 1752, loss: 3955.063232
+iter: 1753, loss: 3954.379883
+iter: 1754, loss: 3953.703125
+iter: 1755, loss: 3953.020020
+iter: 1756, loss: 3952.356934
+iter: 1757, loss: 3951.696289
+iter: 1758, loss: 3951.041016
+iter: 1759, loss: 3950.374512
+iter: 1760, loss: 3949.682373
+iter: 1761, loss: 3948.971680
+iter: 1762, loss: 3948.290527
+iter: 1763, loss: 3947.616455
+iter: 1764, loss: 3946.925293
+iter: 1765, loss: 3946.282715
+iter: 1766, loss: 3945.619141
+iter: 1767, loss: 3944.969482
+iter: 1768, loss: 3944.321289
+iter: 1769, loss: 3943.638184
+iter: 1770, loss: 3942.947754
+iter: 1771, loss: 3942.278809
+iter: 1772, loss: 3941.608398
+iter: 1773, loss: 3940.951660
+iter: 1774, loss: 3940.322754
+iter: 1775, loss: 3939.674561
+iter: 1776, loss: 3939.029541
+iter: 1777, loss: 3938.375244
+iter: 1778, loss: 3937.715088
+iter: 1779, loss: 3937.068359
+iter: 1780, loss: 3936.411377
+iter: 1781, loss: 3935.735840
+iter: 1782, loss: 3935.060547
+iter: 1783, loss: 3934.397461
+iter: 1784, loss: 3933.713867
+iter: 1785, loss: 3933.060303
+iter: 1786, loss: 3932.402832
+iter: 1787, loss: 3931.749512
+iter: 1788, loss: 3931.108154
+iter: 1789, loss: 3930.448730
+iter: 1790, loss: 3929.795166
+iter: 1791, loss: 3929.120605
+iter: 1792, loss: 3928.510254
+iter: 1793, loss: 3927.869141
+iter: 1794, loss: 3927.222656
+iter: 1795, loss: 3926.587891
+iter: 1796, loss: 3925.967285
+iter: 1797, loss: 3925.343506
+iter: 1798, loss: 3924.696777
+iter: 1799, loss: 3924.068359
+iter: 1800, loss: 3923.447266
+iter: 1801, loss: 3922.814941
+iter: 1802, loss: 3922.174072
+iter: 1803, loss: 3921.545410
+iter: 1804, loss: 3920.895508
+iter: 1805, loss: 3920.233887
+iter: 1806, loss: 3919.604980
+iter: 1807, loss: 3918.973389
+iter: 1808, loss: 3918.347168
+iter: 1809, loss: 3917.737061
+iter: 1810, loss: 3917.129883
+iter: 1811, loss: 3916.515869
+iter: 1812, loss: 3915.923828
+iter: 1813, loss: 3915.325684
+iter: 1814, loss: 3914.715332
+iter: 1815, loss: 3914.107910
+iter: 1816, loss: 3913.474609
+iter: 1817, loss: 3912.813965
+iter: 1818, loss: 3912.222656
+iter: 1819, loss: 3911.602783
+iter: 1820, loss: 3910.974121
+iter: 1821, loss: 3910.359863
+iter: 1822, loss: 3909.718262
+iter: 1823, loss: 3909.053467
+iter: 1824, loss: 3908.453125
+iter: 1825, loss: 3907.834473
+iter: 1826, loss: 3907.240723
+iter: 1827, loss: 3906.621094
+iter: 1828, loss: 3906.001221
+iter: 1829, loss: 3905.396484
+iter: 1830, loss: 3904.797363
+iter: 1831, loss: 3904.171387
+iter: 1832, loss: 3903.573730
+iter: 1833, loss: 3902.953125
+iter: 1834, loss: 3902.356934
+iter: 1835, loss: 3901.750244
+iter: 1836, loss: 3901.149902
+iter: 1837, loss: 3900.553223
+iter: 1838, loss: 3899.972168
+iter: 1839, loss: 3899.375244
+iter: 1840, loss: 3898.773926
+iter: 1841, loss: 3898.162109
+iter: 1842, loss: 3897.544922
+iter: 1843, loss: 3896.945312
+iter: 1844, loss: 3896.340820
+iter: 1845, loss: 3895.749512
+iter: 1846, loss: 3895.126465
+iter: 1847, loss: 3894.561035
+iter: 1848, loss: 3893.957520
+iter: 1849, loss: 3893.376465
+iter: 1850, loss: 3892.820557
+iter: 1851, loss: 3892.224121
+iter: 1852, loss: 3891.618652
+iter: 1853, loss: 3891.030029
+iter: 1854, loss: 3890.442871
+iter: 1855, loss: 3889.847412
+iter: 1856, loss: 3889.228027
+iter: 1857, loss: 3888.650391
+iter: 1858, loss: 3888.060547
+iter: 1859, loss: 3887.457275
+iter: 1860, loss: 3886.883545
+iter: 1861, loss: 3886.311768
+iter: 1862, loss: 3885.721680
+iter: 1863, loss: 3885.141357
+iter: 1864, loss: 3884.578125
+iter: 1865, loss: 3884.002930
+iter: 1866, loss: 3883.410645
+iter: 1867, loss: 3882.864258
+iter: 1868, loss: 3882.280762
+iter: 1869, loss: 3881.694824
+iter: 1870, loss: 3881.103027
+iter: 1871, loss: 3880.491943
+iter: 1872, loss: 3879.895508
+iter: 1873, loss: 3879.300781
+iter: 1874, loss: 3878.700684
+iter: 1875, loss: 3878.113770
+iter: 1876, loss: 3877.530762
+iter: 1877, loss: 3876.955078
+iter: 1878, loss: 3876.375977
+iter: 1879, loss: 3875.778076
+iter: 1880, loss: 3875.206055
+iter: 1881, loss: 3874.610840
+iter: 1882, loss: 3874.012939
+iter: 1883, loss: 3873.438965
+iter: 1884, loss: 3872.835449
+iter: 1885, loss: 3872.251465
+iter: 1886, loss: 3871.674316
+iter: 1887, loss: 3871.071777
+iter: 1888, loss: 3870.490967
+iter: 1889, loss: 3869.908203
+iter: 1890, loss: 3869.323242
+iter: 1891, loss: 3868.760254
+iter: 1892, loss: 3868.182861
+iter: 1893, loss: 3867.610840
+iter: 1894, loss: 3867.054932
+iter: 1895, loss: 3866.485107
+iter: 1896, loss: 3865.894287
+iter: 1897, loss: 3865.290527
+iter: 1898, loss: 3864.695312
+iter: 1899, loss: 3864.092773
+iter: 1900, loss: 3863.483887
+iter: 1901, loss: 3862.884766
+iter: 1902, loss: 3862.309814
+iter: 1903, loss: 3861.742676
+iter: 1904, loss: 3861.178223
+iter: 1905, loss: 3860.637695
+iter: 1906, loss: 3860.071533
+iter: 1907, loss: 3859.535645
+iter: 1908, loss: 3859.010742
+iter: 1901, loss: 17388.457031, content loss: 17890320.000000, style_loss: 384525.218750
+iter: 1902, loss: 11117.057617, content loss: 10300318.000000, style_loss: 359600.437500
+iter: 1903, loss: 9404.056641, content loss: 8241623.000000, style_loss: 351344.812500
+iter: 1904, loss: 8253.163086, content loss: 6899693.500000, style_loss: 341676.031250
+iter: 1905, loss: 7200.946777, content loss: 5767250.000000, style_loss: 323393.343750
+iter: 1906, loss: 6707.364258, content loss: 5297493.500000, style_loss: 308671.156250
+iter: 1907, loss: 6265.303711, content loss: 4801509.000000, style_loss: 303012.031250
+iter: 1908, loss: 5981.638672, content loss: 4514876.000000, style_loss: 296217.218750
+iter: 1909, loss: 5743.468262, content loss: 4306378.500000, style_loss: 287295.656250
+iter: 1910, loss: 5531.233398, content loss: 4210721.500000, style_loss: 270332.000000
+iter: 1911, loss: 5346.109375, content loss: 4019545.250000, style_loss: 266309.093750
+iter: 1912, loss: 5231.187500, content loss: 3890829.750000, style_loss: 264815.468750
+iter: 1913, loss: 5075.554199, content loss: 3767206.500000, style_loss: 257723.625000
+iter: 1914, loss: 4968.876953, content loss: 3749577.500000, style_loss: 246151.843750
+iter: 1915, loss: 4864.805176, content loss: 3653256.500000, style_loss: 242774.968750
+iter: 1916, loss: 4784.301758, content loss: 3591736.250000, style_loss: 238864.125000
+iter: 1917, loss: 4708.393066, content loss: 3547182.000000, style_loss: 233830.937500
+iter: 1918, loss: 4648.060547, content loss: 3563019.500000, style_loss: 224705.593750
+iter: 1919, loss: 4565.965820, content loss: 3469942.000000, style_loss: 223751.500000
+iter: 1920, loss: 4528.272461, content loss: 3429559.500000, style_loss: 223078.078125
+iter: 1921, loss: 4472.822266, content loss: 3392036.000000, style_loss: 219899.156250
+iter: 1922, loss: 4426.642578, content loss: 3379543.250000, style_loss: 215376.015625
+iter: 1923, loss: 4380.040039, content loss: 3348079.500000, style_loss: 212697.062500
+iter: 1924, loss: 4346.600098, content loss: 3323815.500000, style_loss: 210943.484375
+iter: 1925, loss: 4309.520508, content loss: 3302273.500000, style_loss: 208462.671875
+iter: 1926, loss: 4287.523438, content loss: 3299288.250000, style_loss: 206011.640625
+iter: 1927, loss: 4259.594727, content loss: 3267763.500000, style_loss: 205672.984375
+iter: 1928, loss: 4240.035645, content loss: 3246988.000000, style_loss: 205305.656250
+iter: 1929, loss: 4221.659180, content loss: 3235428.000000, style_loss: 204164.593750
+iter: 1930, loss: 4193.617188, content loss: 3221798.500000, style_loss: 202022.296875
+iter: 1931, loss: 4179.449219, content loss: 3218622.000000, style_loss: 200568.968750
+iter: 1932, loss: 4160.111816, content loss: 3194078.750000, style_loss: 200606.078125
+iter: 1933, loss: 4146.616211, content loss: 3180090.000000, style_loss: 200318.031250
+iter: 1934, loss: 4133.593750, content loss: 3170628.250000, style_loss: 199636.421875
+iter: 1935, loss: 4116.465820, content loss: 3163235.500000, style_loss: 198234.687500
+iter: 1936, loss: 4104.563477, content loss: 3157119.000000, style_loss: 197358.562500
+iter: 1937, loss: 4094.529541, content loss: 3143378.500000, style_loss: 197478.359375
+iter: 1938, loss: 4084.066406, content loss: 3132253.500000, style_loss: 197282.937500
+iter: 1939, loss: 4075.079102, content loss: 3124671.000000, style_loss: 196917.796875
+iter: 1940, loss: 4063.340820, content loss: 3117006.500000, style_loss: 196216.937500
+iter: 1941, loss: 4054.997070, content loss: 3110584.000000, style_loss: 195816.265625
+iter: 1942, loss: 4048.464355, content loss: 3102008.500000, style_loss: 195857.218750
+iter: 1943, loss: 4041.511230, content loss: 3094177.000000, style_loss: 195771.203125
+iter: 1944, loss: 4034.777832, content loss: 3087495.500000, style_loss: 195597.687500
+iter: 1945, loss: 4027.084473, content loss: 3080839.000000, style_loss: 195301.640625
+iter: 1946, loss: 4020.543701, content loss: 3074519.250000, style_loss: 195116.046875
+iter: 1947, loss: 4014.914062, content loss: 3069043.000000, style_loss: 194959.937500
+iter: 1948, loss: 4009.028809, content loss: 3063320.500000, style_loss: 194796.562500
+iter: 1949, loss: 4003.661621, content loss: 3058276.000000, style_loss: 194630.109375
+iter: 1950, loss: 3998.809082, content loss: 3052672.500000, style_loss: 194583.890625
+iter: 1951, loss: 3994.333984, content loss: 3047768.250000, style_loss: 194514.921875
+iter: 1952, loss: 3990.202881, content loss: 3043483.000000, style_loss: 194427.046875
+iter: 1953, loss: 3985.536133, content loss: 3038771.000000, style_loss: 194314.890625
+iter: 1954, loss: 3981.498047, content loss: 3034865.500000, style_loss: 194200.718750
+iter: 1955, loss: 3977.973389, content loss: 3031036.000000, style_loss: 194143.062500
+iter: 1956, loss: 3974.134277, content loss: 3026719.000000, style_loss: 194094.890625
+iter: 1957, loss: 3970.421387, content loss: 3023024.000000, style_loss: 194000.265625
+iter: 1958, loss: 3967.000977, content loss: 3019303.000000, style_loss: 193944.812500
+iter: 1959, loss: 3963.770996, content loss: 3015772.000000, style_loss: 193894.187500
+iter: 1960, loss: 3960.407715, content loss: 3012317.750000, style_loss: 193819.171875
+iter: 1961, loss: 3957.333984, content loss: 3009625.750000, style_loss: 193704.171875
+iter: 1962, loss: 3954.495605, content loss: 3006547.500000, style_loss: 193657.203125
+iter: 1963, loss: 3951.807617, content loss: 3003592.000000, style_loss: 193616.734375
+iter: 1964, loss: 3949.217773, content loss: 3000931.000000, style_loss: 193559.125000
+iter: 1965, loss: 3946.669434, content loss: 2998277.000000, style_loss: 193505.984375
+iter: 1966, loss: 3944.240723, content loss: 2995514.000000, style_loss: 193478.687500
+iter: 1967, loss: 3941.931641, content loss: 2993058.500000, style_loss: 193435.609375
+iter: 1968, loss: 3939.636963, content loss: 2990600.500000, style_loss: 193394.578125
+iter: 1969, loss: 3937.309082, content loss: 2988036.250000, style_loss: 193360.015625
+iter: 1970, loss: 3935.214111, content loss: 2985835.250000, style_loss: 193318.234375
+iter: 1971, loss: 3933.193604, content loss: 2983560.250000, style_loss: 193293.171875
+iter: 1972, loss: 3931.037109, content loss: 2981271.250000, style_loss: 193252.515625
+iter: 1973, loss: 3928.836670, content loss: 2978946.750000, style_loss: 193209.921875
+iter: 1974, loss: 3926.747559, content loss: 2976807.750000, style_loss: 193162.687500
+iter: 1975, loss: 3924.718750, content loss: 2974816.000000, style_loss: 193108.234375
+iter: 1976, loss: 3922.812500, content loss: 2973061.250000, style_loss: 193045.437500
+iter: 1977, loss: 3920.955322, content loss: 2971559.000000, style_loss: 192963.515625
+iter: 1978, loss: 3919.278809, content loss: 2970033.250000, style_loss: 192906.515625
+iter: 1979, loss: 3917.612793, content loss: 2968367.750000, style_loss: 192864.812500
+iter: 1980, loss: 3915.982910, content loss: 2966732.000000, style_loss: 192824.671875
+iter: 1981, loss: 3914.420654, content loss: 2965372.000000, style_loss: 192765.375000
+iter: 1982, loss: 3912.744141, content loss: 2963853.250000, style_loss: 192707.687500
+iter: 1983, loss: 3911.170410, content loss: 2962528.500000, style_loss: 192643.437500
+iter: 1984, loss: 3909.718262, content loss: 2961293.250000, style_loss: 192585.468750
+iter: 1985, loss: 3908.203125, content loss: 2959832.750000, style_loss: 192542.093750
+iter: 1986, loss: 3906.709473, content loss: 2958444.500000, style_loss: 192494.203125
+iter: 1987, loss: 3905.317139, content loss: 2957087.000000, style_loss: 192455.953125
+iter: 1988, loss: 3903.968994, content loss: 2955838.000000, style_loss: 192412.312500
+iter: 1989, loss: 3902.642090, content loss: 2954760.000000, style_loss: 192354.250000
+iter: 1990, loss: 3901.380859, content loss: 2953631.000000, style_loss: 192309.500000
+iter: 1991, loss: 3900.170410, content loss: 2952454.500000, style_loss: 192275.859375
+iter: 1992, loss: 3898.946289, content loss: 2951208.000000, style_loss: 192247.500000
+iter: 1993, loss: 3897.764893, content loss: 2950147.000000, style_loss: 192205.921875
+iter: 1994, loss: 3896.595215, content loss: 2949107.000000, style_loss: 192163.671875
+iter: 1995, loss: 3895.376465, content loss: 2948120.500000, style_loss: 192110.000000
+iter: 1996, loss: 3894.131836, content loss: 2947285.000000, style_loss: 192037.968750
+iter: 1997, loss: 3892.983398, content loss: 2946313.000000, style_loss: 191991.609375
+iter: 1998, loss: 3891.903809, content loss: 2945467.000000, style_loss: 191941.265625
+iter: 1999, loss: 3890.754150, content loss: 2944482.750000, style_loss: 191895.984375
+iter: 2000, loss: 3889.659912, content loss: 2943651.000000, style_loss: 191842.390625
+iter: 2001, loss: 3888.583984, content loss: 2942741.250000, style_loss: 191798.859375
+iter: 2002, loss: 3887.499023, content loss: 2941839.750000, style_loss: 191753.390625
+iter: 2003, loss: 3886.393066, content loss: 2941090.250000, style_loss: 191690.093750
+iter: 2004, loss: 3885.316162, content loss: 2940296.250000, style_loss: 191634.875000
+iter: 2005, loss: 3884.264160, content loss: 2939506.250000, style_loss: 191582.390625
+iter: 2006, loss: 3883.250244, content loss: 2938667.250000, style_loss: 191539.546875
+iter: 2007, loss: 3882.255127, content loss: 2937910.250000, style_loss: 191490.859375
+iter: 2008, loss: 3881.307129, content loss: 2937266.000000, style_loss: 191436.781250
+iter: 2009, loss: 3880.365723, content loss: 2936654.500000, style_loss: 191380.265625
+iter: 2010, loss: 3879.425781, content loss: 2936011.000000, style_loss: 191327.125000
+iter: 2011, loss: 3878.498047, content loss: 2935266.000000, style_loss: 191285.671875
+iter: 2012, loss: 3877.534668, content loss: 2934584.500000, style_loss: 191233.390625
+iter: 2013, loss: 3876.679688, content loss: 2933996.000000, style_loss: 191185.343750
+iter: 2014, loss: 3875.801270, content loss: 2933352.250000, style_loss: 191139.937500
+iter: 2015, loss: 3874.882080, content loss: 2932781.500000, style_loss: 191082.109375
+iter: 2016, loss: 3874.043457, content loss: 2932221.000000, style_loss: 191033.296875
+iter: 2017, loss: 3873.215332, content loss: 2931676.250000, style_loss: 190984.296875
+iter: 2018, loss: 3872.289551, content loss: 2930970.250000, style_loss: 190939.171875
+iter: 2019, loss: 3871.481445, content loss: 2930603.250000, style_loss: 190874.875000
+iter: 2020, loss: 3870.669922, content loss: 2929893.500000, style_loss: 190844.390625
+iter: 2021, loss: 3869.829102, content loss: 2929208.500000, style_loss: 190807.796875
+iter: 2022, loss: 3869.064453, content loss: 2928607.000000, style_loss: 190772.359375
+iter: 2023, loss: 3868.328613, content loss: 2928077.000000, style_loss: 190733.375000
+iter: 2024, loss: 3867.536133, content loss: 2927504.000000, style_loss: 190691.593750
+iter: 2025, loss: 3866.792969, content loss: 2927013.500000, style_loss: 190647.765625
+iter: 2026, loss: 3866.091064, content loss: 2926468.000000, style_loss: 190614.578125
+iter: 2027, loss: 3865.368652, content loss: 2925934.750000, style_loss: 190577.578125
+iter: 2028, loss: 3864.629639, content loss: 2925365.000000, style_loss: 190542.203125
+iter: 2029, loss: 3863.900391, content loss: 2924829.250000, style_loss: 190504.625000
+iter: 2030, loss: 3863.164062, content loss: 2924210.500000, style_loss: 190474.453125
+iter: 2031, loss: 3862.456543, content loss: 2923670.500000, style_loss: 190440.031250
+iter: 2032, loss: 3861.780762, content loss: 2922973.750000, style_loss: 190425.234375
+iter: 2033, loss: 3861.132324, content loss: 2922396.000000, style_loss: 190401.921875
+iter: 2034, loss: 3860.482910, content loss: 2921883.500000, style_loss: 190372.000000
+iter: 2035, loss: 3859.830566, content loss: 2921308.500000, style_loss: 190348.000000
+iter: 2036, loss: 3859.167969, content loss: 2920853.000000, style_loss: 190310.671875
+iter: 2037, loss: 3858.536621, content loss: 2920432.000000, style_loss: 190273.890625
+iter: 2038, loss: 3857.899170, content loss: 2919945.500000, style_loss: 190242.843750
+iter: 2039, loss: 3857.263672, content loss: 2919507.500000, style_loss: 190207.203125
+iter: 2040, loss: 3856.659668, content loss: 2918987.500000, style_loss: 190183.703125
+iter: 2041, loss: 3856.026855, content loss: 2918577.000000, style_loss: 190145.656250
+iter: 2042, loss: 3855.428711, content loss: 2918109.250000, style_loss: 190117.687500
+iter: 2043, loss: 3854.820801, content loss: 2917722.000000, style_loss: 190080.406250
+iter: 2044, loss: 3854.272461, content loss: 2917338.000000, style_loss: 190050.250000
+iter: 2045, loss: 3853.713623, content loss: 2916941.500000, style_loss: 190020.046875
+iter: 2046, loss: 3853.141113, content loss: 2916575.500000, style_loss: 189985.093750
+iter: 2047, loss: 3852.572266, content loss: 2916259.500000, style_loss: 189945.593750
+iter: 2048, loss: 3851.988770, content loss: 2915887.000000, style_loss: 189909.906250
+iter: 2049, loss: 3851.411865, content loss: 2915465.000000, style_loss: 189880.000000
+iter: 2050, loss: 3850.846191, content loss: 2915034.000000, style_loss: 189852.359375
+iter: 2051, loss: 3850.305420, content loss: 2914645.500000, style_loss: 189823.625000
+iter: 2052, loss: 3849.740723, content loss: 2914180.000000, style_loss: 189799.562500
+iter: 2053, loss: 3849.185303, content loss: 2913809.000000, style_loss: 189767.265625
+iter: 2054, loss: 3848.638184, content loss: 2913434.500000, style_loss: 189736.296875
+iter: 2055, loss: 3848.123535, content loss: 2913167.750000, style_loss: 189698.671875
+iter: 2056, loss: 3847.594727, content loss: 2912782.250000, style_loss: 189671.109375
+iter: 2057, loss: 3847.061035, content loss: 2912466.000000, style_loss: 189636.015625
+iter: 2058, loss: 3846.511963, content loss: 2912124.750000, style_loss: 189601.515625
+iter: 2059, loss: 3845.981201, content loss: 2911770.500000, style_loss: 189570.609375
+iter: 2060, loss: 3845.467529, content loss: 2911364.000000, style_loss: 189547.046875
+iter: 2061, loss: 3844.973145, content loss: 2911032.000000, style_loss: 189518.437500
+iter: 2062, loss: 3844.491455, content loss: 2910677.500000, style_loss: 189493.671875
+iter: 2063, loss: 3843.988037, content loss: 2910334.000000, style_loss: 189465.109375
+iter: 2064, loss: 3843.474609, content loss: 2910009.000000, style_loss: 189433.453125
+iter: 2065, loss: 3842.959473, content loss: 2909652.500000, style_loss: 189404.671875
+iter: 2066, loss: 3842.458496, content loss: 2909287.250000, style_loss: 189378.609375
+iter: 2067, loss: 3841.967773, content loss: 2908918.250000, style_loss: 189354.156250
+iter: 2068, loss: 3841.467773, content loss: 2908601.500000, style_loss: 189323.343750
+iter: 2069, loss: 3840.948730, content loss: 2908236.500000, style_loss: 189294.953125
+iter: 2070, loss: 3840.454590, content loss: 2907874.000000, style_loss: 189269.453125
+iter: 2071, loss: 3839.979492, content loss: 2907538.000000, style_loss: 189243.640625
+iter: 2072, loss: 3839.504883, content loss: 2907212.500000, style_loss: 189216.828125
+iter: 2073, loss: 3839.042236, content loss: 2907005.250000, style_loss: 189179.734375
+iter: 2074, loss: 3838.577637, content loss: 2906635.750000, style_loss: 189158.640625
+iter: 2075, loss: 3838.106201, content loss: 2906290.500000, style_loss: 189134.234375
+iter: 2076, loss: 3837.633545, content loss: 2905932.750000, style_loss: 189110.921875
+iter: 2077, loss: 3837.142578, content loss: 2905607.000000, style_loss: 189082.109375
+iter: 2078, loss: 3836.654541, content loss: 2905230.250000, style_loss: 189058.796875
+iter: 2079, loss: 3836.160889, content loss: 2904846.500000, style_loss: 189035.453125
+iter: 2080, loss: 3835.710693, content loss: 2904534.000000, style_loss: 189010.421875
+iter: 2081, loss: 3835.233887, content loss: 2904173.250000, style_loss: 188986.906250
+iter: 2082, loss: 3834.778809, content loss: 2903881.500000, style_loss: 188959.203125
+iter: 2083, loss: 3834.355469, content loss: 2903488.500000, style_loss: 188945.562500
+iter: 2084, loss: 3833.899902, content loss: 2903121.000000, style_loss: 188925.359375
+iter: 2085, loss: 3833.429199, content loss: 2902760.000000, style_loss: 188902.625000
+iter: 2086, loss: 3832.983398, content loss: 2902518.000000, style_loss: 188871.109375
+iter: 2087, loss: 3832.539307, content loss: 2902210.250000, style_loss: 188846.390625
+iter: 2088, loss: 3832.103760, content loss: 2901853.500000, style_loss: 188827.625000
+iter: 2089, loss: 3831.669434, content loss: 2901488.750000, style_loss: 188809.812500
+iter: 2090, loss: 3831.211914, content loss: 2901149.000000, style_loss: 188786.578125
+iter: 2091, loss: 3830.756836, content loss: 2900846.500000, style_loss: 188759.953125
+iter: 2092, loss: 3830.310059, content loss: 2900490.000000, style_loss: 188739.781250
+iter: 2093, loss: 3829.865479, content loss: 2900133.000000, style_loss: 188719.875000
+iter: 2094, loss: 3829.437012, content loss: 2899830.000000, style_loss: 188696.593750
+iter: 2095, loss: 3828.998047, content loss: 2899507.000000, style_loss: 188674.078125
+iter: 2096, loss: 3828.544922, content loss: 2899181.000000, style_loss: 188650.031250
+iter: 2097, loss: 3828.126465, content loss: 2898889.250000, style_loss: 188626.875000
+iter: 2098, loss: 3827.687988, content loss: 2898524.000000, style_loss: 188608.609375
+iter: 2099, loss: 3827.259277, content loss: 2898120.750000, style_loss: 188595.312500
+iter: 2100, loss: 3826.864258, content loss: 2897794.500000, style_loss: 188578.562500
+iter: 2101, loss: 3826.454590, content loss: 2897497.000000, style_loss: 188557.109375
+iter: 2102, loss: 3826.048340, content loss: 2897223.500000, style_loss: 188533.671875
+iter: 2103, loss: 3825.640625, content loss: 2896887.500000, style_loss: 188516.312500
+iter: 2104, loss: 3825.252930, content loss: 2896583.000000, style_loss: 188498.328125
+iter: 2105, loss: 3824.863037, content loss: 2896291.250000, style_loss: 188478.750000
+iter: 2106, loss: 3824.459473, content loss: 2895943.500000, style_loss: 188463.078125
+iter: 2107, loss: 3824.050293, content loss: 2895651.500000, style_loss: 188441.109375
+iter: 2108, loss: 3823.635254, content loss: 2895288.500000, style_loss: 188425.546875
+iter: 2109, loss: 3823.243652, content loss: 2895068.750000, style_loss: 188398.562500
+iter: 2110, loss: 3822.844482, content loss: 2894792.250000, style_loss: 188376.328125
+iter: 2111, loss: 3822.430664, content loss: 2894525.500000, style_loss: 188351.265625
+iter: 2112, loss: 3822.032227, content loss: 2894186.000000, style_loss: 188335.437500
+iter: 2113, loss: 3821.636719, content loss: 2893902.000000, style_loss: 188314.375000
+iter: 2114, loss: 3821.230713, content loss: 2893635.000000, style_loss: 188290.328125
+iter: 2115, loss: 3820.821289, content loss: 2893362.000000, style_loss: 188266.453125
+iter: 2116, loss: 3820.415283, content loss: 2893056.250000, style_loss: 188246.296875
+iter: 2117, loss: 3820.003418, content loss: 2892760.500000, style_loss: 188224.406250
+iter: 2118, loss: 3819.596680, content loss: 2892459.750000, style_loss: 188203.609375
+iter: 2119, loss: 3819.184082, content loss: 2892126.500000, style_loss: 188185.343750
+iter: 2120, loss: 3818.780029, content loss: 2891872.000000, style_loss: 188160.296875
+iter: 2121, loss: 3818.382812, content loss: 2891587.000000, style_loss: 188139.140625
+iter: 2122, loss: 3817.968262, content loss: 2891267.000000, style_loss: 188119.359375
+iter: 2123, loss: 3817.566895, content loss: 2890980.000000, style_loss: 188097.875000
+iter: 2124, loss: 3817.188232, content loss: 2890676.000000, style_loss: 188080.921875
+iter: 2125, loss: 3816.814453, content loss: 2890424.000000, style_loss: 188059.390625
+iter: 2126, loss: 3816.464844, content loss: 2890142.500000, style_loss: 188043.843750
+iter: 2127, loss: 3816.091309, content loss: 2889827.750000, style_loss: 188028.625000
+iter: 2128, loss: 3815.704590, content loss: 2889544.000000, style_loss: 188008.640625
+iter: 2129, loss: 3815.309082, content loss: 2889259.000000, style_loss: 187987.734375
+iter: 2130, loss: 3814.910645, content loss: 2888868.000000, style_loss: 187977.031250
+iter: 2131, loss: 3814.518311, content loss: 2888500.000000, style_loss: 187964.781250
+iter: 2132, loss: 3814.175049, content loss: 2888194.250000, style_loss: 187952.437500
+iter: 2133, loss: 3813.816895, content loss: 2887896.250000, style_loss: 187937.484375
+iter: 2134, loss: 3813.428711, content loss: 2887619.750000, style_loss: 187916.609375
+iter: 2135, loss: 3813.037109, content loss: 2887369.750000, style_loss: 187892.671875
+iter: 2136, loss: 3812.664062, content loss: 2887166.000000, style_loss: 187866.421875
+iter: 2137, loss: 3812.288818, content loss: 2886829.750000, style_loss: 187853.140625
+iter: 2138, loss: 3811.898438, content loss: 2886491.000000, style_loss: 187838.218750
+iter: 2139, loss: 3811.526855, content loss: 2886264.750000, style_loss: 187814.390625
+iter: 2140, loss: 3811.145508, content loss: 2885990.000000, style_loss: 187794.203125
+iter: 2141, loss: 3810.756348, content loss: 2885732.500000, style_loss: 187771.296875
+iter: 2142, loss: 3810.364258, content loss: 2885491.000000, style_loss: 187746.437500
+iter: 2143, loss: 3810.004639, content loss: 2885235.000000, style_loss: 187727.078125
+iter: 2144, loss: 3809.636230, content loss: 2884939.500000, style_loss: 187710.546875
+iter: 2145, loss: 3809.259277, content loss: 2884722.000000, style_loss: 187685.203125
+iter: 2146, loss: 3808.912109, content loss: 2884429.000000, style_loss: 187671.125000
+iter: 2147, loss: 3808.558105, content loss: 2884129.000000, style_loss: 187656.859375
+iter: 2148, loss: 3808.207275, content loss: 2883871.500000, style_loss: 187638.750000
+iter: 2149, loss: 3807.846680, content loss: 2883611.750000, style_loss: 187619.671875
+iter: 2150, loss: 3807.485840, content loss: 2883364.750000, style_loss: 187599.281250
+iter: 2151, loss: 3807.102051, content loss: 2883055.750000, style_loss: 187582.156250
+iter: 2152, loss: 3806.746582, content loss: 2882844.250000, style_loss: 187558.890625
+iter: 2153, loss: 3806.379883, content loss: 2882587.000000, style_loss: 187538.796875
+iter: 2154, loss: 3806.001465, content loss: 2882341.250000, style_loss: 187516.046875
+iter: 2155, loss: 3805.657471, content loss: 2882158.250000, style_loss: 187491.359375
+iter: 2156, loss: 3805.308594, content loss: 2881991.500000, style_loss: 187464.421875
+iter: 2157, loss: 3804.959229, content loss: 2881766.000000, style_loss: 187443.296875
+iter: 2158, loss: 3804.612793, content loss: 2881522.500000, style_loss: 187424.328125
+iter: 2159, loss: 3804.248291, content loss: 2881256.500000, style_loss: 187405.390625
+iter: 2160, loss: 3803.898438, content loss: 2881042.000000, style_loss: 187383.109375
+iter: 2161, loss: 3803.551758, content loss: 2880850.750000, style_loss: 187358.890625
+iter: 2162, loss: 3803.193359, content loss: 2880638.500000, style_loss: 187335.296875
+iter: 2163, loss: 3802.856201, content loss: 2880351.500000, style_loss: 187321.859375
+iter: 2164, loss: 3802.521484, content loss: 2880072.000000, style_loss: 187307.984375
+iter: 2165, loss: 3802.183105, content loss: 2879831.000000, style_loss: 187289.781250
+iter: 2166, loss: 3801.834961, content loss: 2879588.500000, style_loss: 187270.531250
+iter: 2167, loss: 3801.498535, content loss: 2879386.750000, style_loss: 187248.640625
+iter: 2168, loss: 3801.147217, content loss: 2879249.500000, style_loss: 187218.437500
+iter: 2169, loss: 3800.781250, content loss: 2879059.750000, style_loss: 187191.656250
+iter: 2170, loss: 3800.423340, content loss: 2878823.500000, style_loss: 187170.546875
+iter: 2171, loss: 3800.065918, content loss: 2878574.500000, style_loss: 187150.796875
+iter: 2172, loss: 3799.690918, content loss: 2878344.000000, style_loss: 187126.984375
+iter: 2173, loss: 3799.331055, content loss: 2878152.500000, style_loss: 187101.109375
+iter: 2174, loss: 3798.992188, content loss: 2877934.750000, style_loss: 187080.562500
+iter: 2175, loss: 3798.635254, content loss: 2877701.750000, style_loss: 187059.234375
+iter: 2176, loss: 3798.286621, content loss: 2877422.750000, style_loss: 187043.562500
+iter: 2177, loss: 3797.948242, content loss: 2877236.500000, style_loss: 187019.890625
+iter: 2178, loss: 3797.602051, content loss: 2877030.750000, style_loss: 186997.187500
+iter: 2179, loss: 3797.246094, content loss: 2876821.000000, style_loss: 186973.671875
+iter: 2180, loss: 3796.909668, content loss: 2876645.000000, style_loss: 186949.187500
+iter: 2181, loss: 3796.573730, content loss: 2876423.000000, style_loss: 186929.421875
+iter: 2182, loss: 3796.218262, content loss: 2876181.500000, style_loss: 186909.156250
+iter: 2183, loss: 3795.885010, content loss: 2875987.500000, style_loss: 186886.859375
+iter: 2184, loss: 3795.527832, content loss: 2875693.500000, style_loss: 186871.640625
+iter: 2185, loss: 3795.158936, content loss: 2875480.500000, style_loss: 186846.828125
+iter: 2186, loss: 3794.800049, content loss: 2875254.500000, style_loss: 186824.546875
+iter: 2187, loss: 3794.447998, content loss: 2874973.000000, style_loss: 186808.703125
+iter: 2188, loss: 3794.105957, content loss: 2874763.000000, style_loss: 186786.937500
+iter: 2189, loss: 3793.783203, content loss: 2874502.000000, style_loss: 186772.687500
+iter: 2190, loss: 3793.453125, content loss: 2874202.000000, style_loss: 186761.437500
+iter: 2191, loss: 3793.103271, content loss: 2873974.250000, style_loss: 186740.468750
+iter: 2192, loss: 3792.761230, content loss: 2873775.250000, style_loss: 186717.593750
+iter: 2193, loss: 3792.436523, content loss: 2873555.000000, style_loss: 186699.062500
+iter: 2194, loss: 3792.098145, content loss: 2873291.500000, style_loss: 186683.109375
+iter: 2195, loss: 3791.757812, content loss: 2873056.750000, style_loss: 186664.046875
+iter: 2196, loss: 3791.414551, content loss: 2872877.750000, style_loss: 186639.031250
+iter: 2197, loss: 3791.069336, content loss: 2872669.500000, style_loss: 186616.718750
+iter: 2198, loss: 3790.719238, content loss: 2872423.500000, style_loss: 186597.578125
+iter: 2199, loss: 3790.375732, content loss: 2872160.750000, style_loss: 186580.890625
+iter: 2200, loss: 3790.035645, content loss: 2871843.000000, style_loss: 186570.156250
+iter: 2201, loss: 3789.686035, content loss: 2871602.000000, style_loss: 186550.546875
+iter: 2202, loss: 3789.323486, content loss: 2871369.000000, style_loss: 186528.531250
+iter: 2203, loss: 3788.987793, content loss: 2871147.250000, style_loss: 186508.734375
+iter: 2204, loss: 3788.646973, content loss: 2870936.000000, style_loss: 186487.281250
+iter: 2205, loss: 3788.291992, content loss: 2870619.250000, style_loss: 186474.562500
+iter: 2206, loss: 3787.945557, content loss: 2870364.500000, style_loss: 186456.750000
+iter: 2207, loss: 3787.602539, content loss: 2870097.000000, style_loss: 186440.593750
+iter: 2208, loss: 3787.260254, content loss: 2869861.000000, style_loss: 186421.421875
+iter: 2209, loss: 3786.892822, content loss: 2869627.250000, style_loss: 186398.890625
+iter: 2210, loss: 3786.559326, content loss: 2869453.500000, style_loss: 186374.562500
+iter: 2211, loss: 3786.215332, content loss: 2869192.500000, style_loss: 186357.640625
+iter: 2212, loss: 3785.854736, content loss: 2868888.250000, style_loss: 186343.015625
+iter: 2213, loss: 3785.526611, content loss: 2868713.500000, style_loss: 186319.484375
+iter: 2214, loss: 3785.192139, content loss: 2868546.000000, style_loss: 186294.421875
+iter: 2215, loss: 3784.852539, content loss: 2868360.750000, style_loss: 186270.515625
+iter: 2216, loss: 3784.512695, content loss: 2868117.500000, style_loss: 186252.328125
+iter: 2217, loss: 3784.178467, content loss: 2867852.000000, style_loss: 186237.109375
+iter: 2218, loss: 3783.808838, content loss: 2867569.000000, style_loss: 186219.203125
+iter: 2219, loss: 3783.472168, content loss: 2867385.500000, style_loss: 186195.453125
+iter: 2220, loss: 3783.126465, content loss: 2867137.000000, style_loss: 186177.109375
+iter: 2221, loss: 3782.779297, content loss: 2866868.500000, style_loss: 186160.593750
+iter: 2222, loss: 3782.449707, content loss: 2866652.000000, style_loss: 186141.015625
+iter: 2223, loss: 3782.115723, content loss: 2866467.750000, style_loss: 186117.703125
+iter: 2224, loss: 3781.785156, content loss: 2866285.750000, style_loss: 186094.546875
+iter: 2225, loss: 3781.428711, content loss: 2866022.000000, style_loss: 186076.375000
+iter: 2226, loss: 3781.083740, content loss: 2865837.000000, style_loss: 186051.781250
+iter: 2227, loss: 3780.714355, content loss: 2865588.750000, style_loss: 186030.421875
+iter: 2228, loss: 3780.362549, content loss: 2865308.000000, style_loss: 186014.515625
+iter: 2229, loss: 3780.023193, content loss: 2865094.000000, style_loss: 185993.484375
+iter: 2230, loss: 3779.676758, content loss: 2864855.000000, style_loss: 185974.093750
+iter: 2231, loss: 3779.344971, content loss: 2864642.750000, style_loss: 185953.843750
+iter: 2232, loss: 3779.008301, content loss: 2864415.750000, style_loss: 185934.468750
+iter: 2233, loss: 3778.668213, content loss: 2864191.750000, style_loss: 185914.359375
+iter: 2234, loss: 3778.327148, content loss: 2863945.000000, style_loss: 185896.375000
+iter: 2235, loss: 3777.993164, content loss: 2863785.500000, style_loss: 185870.578125
+iter: 2236, loss: 3777.670898, content loss: 2863603.500000, style_loss: 185848.484375
+iter: 2237, loss: 3777.326904, content loss: 2863364.000000, style_loss: 185829.453125
+iter: 2238, loss: 3776.985107, content loss: 2863152.500000, style_loss: 185807.890625
+iter: 2239, loss: 3776.652344, content loss: 2862891.000000, style_loss: 185792.437500
+iter: 2240, loss: 3776.291992, content loss: 2862622.500000, style_loss: 185774.250000
+iter: 2241, loss: 3775.940674, content loss: 2862382.500000, style_loss: 185754.328125
+iter: 2242, loss: 3775.598877, content loss: 2862147.500000, style_loss: 185735.093750
+iter: 2243, loss: 3775.239746, content loss: 2861861.250000, style_loss: 185718.828125
+iter: 2244, loss: 3774.901855, content loss: 2861638.000000, style_loss: 185698.921875
+iter: 2245, loss: 3774.556152, content loss: 2861414.500000, style_loss: 185678.062500
+iter: 2246, loss: 3774.189941, content loss: 2861217.000000, style_loss: 185652.031250
+iter: 2247, loss: 3773.847412, content loss: 2860923.750000, style_loss: 185638.546875
+iter: 2248, loss: 3773.510742, content loss: 2860606.500000, style_loss: 185628.187500
+iter: 2249, loss: 3773.179199, content loss: 2860339.750000, style_loss: 185613.421875
+iter: 2250, loss: 3772.837891, content loss: 2860061.000000, style_loss: 185598.625000
+iter: 2251, loss: 3772.509766, content loss: 2859802.750000, style_loss: 185583.437500
+iter: 2252, loss: 3772.167969, content loss: 2859533.750000, style_loss: 185567.640625
+iter: 2253, loss: 3771.844238, content loss: 2859290.000000, style_loss: 185551.546875
+iter: 2254, loss: 3771.514404, content loss: 2859011.000000, style_loss: 185538.203125
+iter: 2255, loss: 3771.170166, content loss: 2858728.500000, style_loss: 185523.421875
+iter: 2256, loss: 3770.834717, content loss: 2858449.250000, style_loss: 185509.421875
+iter: 2257, loss: 3770.493652, content loss: 2858191.500000, style_loss: 185492.562500
+iter: 2258, loss: 3770.167969, content loss: 2857944.250000, style_loss: 185476.578125
+iter: 2259, loss: 3769.854248, content loss: 2857687.750000, style_loss: 185463.000000
+iter: 2260, loss: 3769.520996, content loss: 2857371.000000, style_loss: 185453.015625
+iter: 2261, loss: 3769.213867, content loss: 2857160.250000, style_loss: 185435.703125
+iter: 2262, loss: 3768.904053, content loss: 2856922.000000, style_loss: 185420.796875
+iter: 2263, loss: 3768.572754, content loss: 2856673.000000, style_loss: 185404.265625
+iter: 2264, loss: 3768.257324, content loss: 2856399.500000, style_loss: 185392.203125
+iter: 2265, loss: 3767.918945, content loss: 2856122.500000, style_loss: 185377.625000
+iter: 2266, loss: 3767.580078, content loss: 2855920.250000, style_loss: 185355.468750
+iter: 2267, loss: 3767.256348, content loss: 2855723.000000, style_loss: 185334.734375
+iter: 2268, loss: 3766.922363, content loss: 2855495.750000, style_loss: 185315.718750
+iter: 2269, loss: 3766.587891, content loss: 2855258.500000, style_loss: 185297.609375
+iter: 2270, loss: 3766.248535, content loss: 2854983.000000, style_loss: 185282.765625
+iter: 2271, loss: 3765.922852, content loss: 2854765.000000, style_loss: 185263.828125
+iter: 2272, loss: 3765.592773, content loss: 2854513.250000, style_loss: 185247.765625
+iter: 2273, loss: 3765.261719, content loss: 2854241.250000, style_loss: 185233.609375
+iter: 2274, loss: 3764.931641, content loss: 2853984.000000, style_loss: 185218.031250
+iter: 2275, loss: 3764.600830, content loss: 2853768.000000, style_loss: 185198.296875
+iter: 2276, loss: 3764.261230, content loss: 2853525.000000, style_loss: 185180.187500
+iter: 2277, loss: 3763.906250, content loss: 2853199.000000, style_loss: 185168.406250
+iter: 2278, loss: 3763.579102, content loss: 2852971.000000, style_loss: 185150.296875
+iter: 2279, loss: 3763.243652, content loss: 2852688.250000, style_loss: 185136.609375
+iter: 2280, loss: 3762.930664, content loss: 2852483.500000, style_loss: 185117.953125
+iter: 2281, loss: 3762.616699, content loss: 2852283.500000, style_loss: 185098.734375
+iter: 2282, loss: 3762.293945, content loss: 2852084.250000, style_loss: 185078.312500
+iter: 2283, loss: 3761.965820, content loss: 2851859.500000, style_loss: 185059.796875
+iter: 2284, loss: 3761.643555, content loss: 2851637.250000, style_loss: 185041.703125
+iter: 2285, loss: 3761.324707, content loss: 2851372.500000, style_loss: 185028.359375
+iter: 2286, loss: 3760.996582, content loss: 2851100.000000, style_loss: 185014.593750
+iter: 2287, loss: 3760.680176, content loss: 2850868.000000, style_loss: 184998.203125
+iter: 2288, loss: 3760.358643, content loss: 2850617.750000, style_loss: 184983.046875
+iter: 2289, loss: 3760.040283, content loss: 2850463.500000, style_loss: 184958.671875
+iter: 2290, loss: 3759.706299, content loss: 2850253.750000, style_loss: 184937.921875
+iter: 2291, loss: 3759.368164, content loss: 2850044.750000, style_loss: 184916.562500
+iter: 2292, loss: 3759.046875, content loss: 2849813.750000, style_loss: 184899.515625
+iter: 2293, loss: 3758.713623, content loss: 2849588.500000, style_loss: 184880.359375
+iter: 2294, loss: 3758.366211, content loss: 2849354.750000, style_loss: 184860.312500
+iter: 2295, loss: 3758.039062, content loss: 2849158.000000, style_loss: 184839.078125
+iter: 2296, loss: 3757.712402, content loss: 2848904.750000, style_loss: 184823.546875
+iter: 2297, loss: 3757.372559, content loss: 2848645.500000, style_loss: 184807.015625
+iter: 2298, loss: 3757.040039, content loss: 2848397.750000, style_loss: 184790.203125
+iter: 2299, loss: 3756.690430, content loss: 2848168.000000, style_loss: 184769.500000
+iter: 2300, loss: 3756.351074, content loss: 2847973.500000, style_loss: 184746.546875
+iter: 2301, loss: 3756.018555, content loss: 2847816.000000, style_loss: 184720.718750
+iter: 2302, loss: 3755.688965, content loss: 2847583.000000, style_loss: 184702.796875
+iter: 2303, loss: 3755.359375, content loss: 2847397.750000, style_loss: 184680.140625
+iter: 2304, loss: 3755.015625, content loss: 2847171.000000, style_loss: 184659.859375
+iter: 2305, loss: 3754.678711, content loss: 2846973.000000, style_loss: 184637.546875
+iter: 2306, loss: 3754.325928, content loss: 2846747.750000, style_loss: 184615.953125
+iter: 2307, loss: 3753.991211, content loss: 2846555.750000, style_loss: 184593.312500
+iter: 2308, loss: 3753.652832, content loss: 2846336.500000, style_loss: 184572.937500
+iter: 2309, loss: 3753.312988, content loss: 2846168.750000, style_loss: 184547.234375
+iter: 2310, loss: 3752.966309, content loss: 2845944.500000, style_loss: 184526.312500
+iter: 2311, loss: 3752.612793, content loss: 2845647.000000, style_loss: 184511.906250
+iter: 2312, loss: 3752.274902, content loss: 2845413.750000, style_loss: 184492.984375
+iter: 2313, loss: 3751.920898, content loss: 2845221.000000, style_loss: 184468.015625
+iter: 2314, loss: 3751.567871, content loss: 2845102.500000, style_loss: 184435.703125
+iter: 2315, loss: 3751.232910, content loss: 2844910.250000, style_loss: 184413.078125
+iter: 2316, loss: 3750.889648, content loss: 2844620.000000, style_loss: 184399.203125
+iter: 2317, loss: 3750.561768, content loss: 2844425.000000, style_loss: 184377.703125
+iter: 2318, loss: 3750.225586, content loss: 2844195.000000, style_loss: 184358.687500
+iter: 2319, loss: 3749.878906, content loss: 2843971.250000, style_loss: 184337.734375
+iter: 2320, loss: 3749.538330, content loss: 2843757.250000, style_loss: 184316.546875
+iter: 2321, loss: 3749.203613, content loss: 2843596.000000, style_loss: 184290.859375
+iter: 2322, loss: 3748.862793, content loss: 2843371.000000, style_loss: 184270.765625
+iter: 2323, loss: 3748.488525, content loss: 2843125.250000, style_loss: 184248.531250
+iter: 2324, loss: 3748.150391, content loss: 2842898.250000, style_loss: 184228.953125
+iter: 2325, loss: 3747.805176, content loss: 2842577.750000, style_loss: 184217.859375
+iter: 2326, loss: 3747.458496, content loss: 2842331.000000, style_loss: 184199.218750
+iter: 2327, loss: 3747.112305, content loss: 2842078.000000, style_loss: 184181.218750
+iter: 2328, loss: 3746.780762, content loss: 2841838.500000, style_loss: 184163.765625
+iter: 2329, loss: 3746.435547, content loss: 2841619.250000, style_loss: 184142.500000
+iter: 2330, loss: 3746.095459, content loss: 2841382.000000, style_loss: 184123.734375
+iter: 2331, loss: 3745.764893, content loss: 2841144.500000, style_loss: 184106.156250
+iter: 2332, loss: 3745.436523, content loss: 2840867.500000, style_loss: 184092.828125
+iter: 2333, loss: 3745.113770, content loss: 2840553.500000, style_loss: 184083.906250
+iter: 2334, loss: 3744.765625, content loss: 2840282.500000, style_loss: 184067.453125
+iter: 2335, loss: 3744.438232, content loss: 2840080.000000, style_loss: 184046.781250
+iter: 2336, loss: 3744.107422, content loss: 2839847.000000, style_loss: 184028.750000
+iter: 2337, loss: 3743.763184, content loss: 2839616.000000, style_loss: 184008.828125
+iter: 2338, loss: 3743.428223, content loss: 2839384.500000, style_loss: 183990.093750
+iter: 2339, loss: 3743.082031, content loss: 2839110.000000, style_loss: 183974.281250
+iter: 2340, loss: 3742.740723, content loss: 2838888.000000, style_loss: 183953.765625
+iter: 2341, loss: 3742.407715, content loss: 2838668.000000, style_loss: 183934.171875
+iter: 2342, loss: 3742.072510, content loss: 2838460.250000, style_loss: 183913.046875
+iter: 2343, loss: 3741.735840, content loss: 2838239.500000, style_loss: 183893.046875
+iter: 2344, loss: 3741.411621, content loss: 2838011.250000, style_loss: 183875.328125
+iter: 2345, loss: 3741.080322, content loss: 2837834.500000, style_loss: 183851.578125
+iter: 2346, loss: 3740.742676, content loss: 2837613.000000, style_loss: 183831.515625
+iter: 2347, loss: 3740.410645, content loss: 2837381.500000, style_loss: 183813.171875
+iter: 2348, loss: 3740.078613, content loss: 2837192.500000, style_loss: 183790.578125
+iter: 2349, loss: 3739.735107, content loss: 2836989.500000, style_loss: 183767.937500
+iter: 2350, loss: 3739.399902, content loss: 2836808.000000, style_loss: 183744.187500
+iter: 2351, loss: 3739.066650, content loss: 2836604.000000, style_loss: 183722.921875
+iter: 2352, loss: 3738.727051, content loss: 2836406.000000, style_loss: 183700.281250
+iter: 2353, loss: 3738.400391, content loss: 2836197.000000, style_loss: 183680.359375
+iter: 2354, loss: 3738.074707, content loss: 2835952.500000, style_loss: 183664.078125
+iter: 2355, loss: 3737.746094, content loss: 2835751.250000, style_loss: 183643.156250
+iter: 2356, loss: 3737.429199, content loss: 2835568.500000, style_loss: 183621.796875
+iter: 2357, loss: 3737.100586, content loss: 2835391.000000, style_loss: 183598.468750
+iter: 2358, loss: 3736.773926, content loss: 2835248.750000, style_loss: 183571.843750
+iter: 2359, loss: 3736.424805, content loss: 2835040.250000, style_loss: 183549.078125
+iter: 2360, loss: 3736.075684, content loss: 2834854.000000, style_loss: 183524.062500
+iter: 2361, loss: 3735.752930, content loss: 2834642.000000, style_loss: 183504.906250
+iter: 2362, loss: 3735.402100, content loss: 2834369.000000, style_loss: 183488.359375
+iter: 2363, loss: 3735.066650, content loss: 2834154.000000, style_loss: 183467.921875
+iter: 2364, loss: 3734.696777, content loss: 2833897.250000, style_loss: 183447.375000
+iter: 2365, loss: 3734.326172, content loss: 2833640.750000, style_loss: 183426.671875
+iter: 2366, loss: 3733.975098, content loss: 2833367.250000, style_loss: 183410.140625
+iter: 2367, loss: 3733.632812, content loss: 2833142.000000, style_loss: 183389.906250
+iter: 2368, loss: 3733.274902, content loss: 2832857.000000, style_loss: 183373.640625
+iter: 2369, loss: 3732.934082, content loss: 2832580.250000, style_loss: 183358.734375
+iter: 2370, loss: 3732.588623, content loss: 2832375.000000, style_loss: 183336.078125
+iter: 2371, loss: 3732.255127, content loss: 2832114.500000, style_loss: 183320.421875
+iter: 2372, loss: 3731.925293, content loss: 2831899.500000, style_loss: 183300.703125
+iter: 2373, loss: 3731.606445, content loss: 2831657.500000, style_loss: 183285.078125
+iter: 2374, loss: 3731.258057, content loss: 2831396.000000, style_loss: 183267.656250
+iter: 2375, loss: 3730.920898, content loss: 2831141.000000, style_loss: 183250.984375
+iter: 2376, loss: 3730.586426, content loss: 2830858.000000, style_loss: 183237.500000
+iter: 2377, loss: 3730.238770, content loss: 2830504.750000, style_loss: 183229.359375
+iter: 2378, loss: 3729.912598, content loss: 2830233.000000, style_loss: 183215.781250
+iter: 2379, loss: 3729.572266, content loss: 2829997.500000, style_loss: 183196.765625
+iter: 2380, loss: 3729.254395, content loss: 2829799.000000, style_loss: 183176.921875
+iter: 2381, loss: 3728.941162, content loss: 2829573.000000, style_loss: 183160.328125
+iter: 2382, loss: 3728.625977, content loss: 2829320.500000, style_loss: 183146.218750
+iter: 2383, loss: 3728.315674, content loss: 2829168.000000, style_loss: 183122.671875
+iter: 2384, loss: 3727.998535, content loss: 2828955.500000, style_loss: 183104.250000
+iter: 2385, loss: 3727.676270, content loss: 2828745.000000, style_loss: 183085.046875
+iter: 2386, loss: 3727.354980, content loss: 2828542.500000, style_loss: 183065.125000
+iter: 2387, loss: 3727.023193, content loss: 2828293.000000, style_loss: 183048.609375
+iter: 2388, loss: 3726.692627, content loss: 2828040.000000, style_loss: 183032.578125
+iter: 2389, loss: 3726.377197, content loss: 2827863.750000, style_loss: 183010.765625
+iter: 2390, loss: 3726.038086, content loss: 2827625.000000, style_loss: 182992.265625
+iter: 2391, loss: 3725.687012, content loss: 2827387.000000, style_loss: 182972.203125
+iter: 2392, loss: 3725.364746, content loss: 2827172.000000, style_loss: 182953.375000
+iter: 2393, loss: 3725.012695, content loss: 2826931.500000, style_loss: 182933.421875
+iter: 2394, loss: 3724.645508, content loss: 2826670.750000, style_loss: 182913.609375
+iter: 2395, loss: 3724.283203, content loss: 2826408.250000, style_loss: 182894.562500
+iter: 2396, loss: 3723.924316, content loss: 2826167.000000, style_loss: 182873.843750
+iter: 2397, loss: 3723.588135, content loss: 2825957.750000, style_loss: 182852.750000
+iter: 2398, loss: 3723.235840, content loss: 2825714.500000, style_loss: 182833.015625
+iter: 2399, loss: 3722.893555, content loss: 2825533.500000, style_loss: 182808.359375
+iter: 2400, loss: 3722.526855, content loss: 2825304.000000, style_loss: 182785.468750
+iter: 2401, loss: 3722.158936, content loss: 2825028.250000, style_loss: 182767.046875
+iter: 2402, loss: 3721.813232, content loss: 2824812.750000, style_loss: 182745.390625
+iter: 2403, loss: 3721.458496, content loss: 2824525.000000, style_loss: 182729.796875
+iter: 2404, loss: 3721.102051, content loss: 2824269.000000, style_loss: 182710.890625
+iter: 2405, loss: 3720.766113, content loss: 2824009.000000, style_loss: 182694.890625
+iter: 2406, loss: 3720.428467, content loss: 2823691.500000, style_loss: 182684.406250
+iter: 2407, loss: 3720.085205, content loss: 2823452.000000, style_loss: 182665.453125
+iter: 2408, loss: 3719.753418, content loss: 2823164.500000, style_loss: 182652.718750
+iter: 2409, loss: 3719.406982, content loss: 2822883.500000, style_loss: 182637.531250
+iter: 2410, loss: 3719.067627, content loss: 2822710.750000, style_loss: 182612.390625
+iter: 2411, loss: 3718.730957, content loss: 2822447.000000, style_loss: 182596.656250
+iter: 2412, loss: 3718.391357, content loss: 2822178.500000, style_loss: 182581.078125
+iter: 2413, loss: 3718.050293, content loss: 2821935.500000, style_loss: 182562.750000
+iter: 2414, loss: 3717.739746, content loss: 2821718.000000, style_loss: 182545.656250
+iter: 2415, loss: 3717.403809, content loss: 2821524.500000, style_loss: 182523.015625
+iter: 2416, loss: 3717.069824, content loss: 2821313.750000, style_loss: 182502.328125
+iter: 2417, loss: 3716.737305, content loss: 2821068.000000, style_loss: 182485.359375
+iter: 2418, loss: 3716.383057, content loss: 2820802.000000, style_loss: 182467.671875
+iter: 2419, loss: 3716.050293, content loss: 2820589.250000, style_loss: 182447.343750
+iter: 2420, loss: 3715.716064, content loss: 2820353.250000, style_loss: 182429.187500
+iter: 2421, loss: 3715.377930, content loss: 2820096.500000, style_loss: 182412.578125
+iter: 2422, loss: 3715.036377, content loss: 2819874.750000, style_loss: 182392.078125
+iter: 2423, loss: 3714.703125, content loss: 2819601.500000, style_loss: 182377.750000
+iter: 2424, loss: 3714.370605, content loss: 2819355.750000, style_loss: 182360.718750
+iter: 2425, loss: 3714.036133, content loss: 2819083.500000, style_loss: 182346.156250
+iter: 2426, loss: 3713.676270, content loss: 2818805.000000, style_loss: 182329.031250
+iter: 2427, loss: 3713.334229, content loss: 2818580.750000, style_loss: 182308.703125
+iter: 2428, loss: 3712.969971, content loss: 2818332.250000, style_loss: 182288.015625
+iter: 2429, loss: 3712.618652, content loss: 2818076.500000, style_loss: 182269.671875
+iter: 2430, loss: 3712.290527, content loss: 2817815.750000, style_loss: 182254.750000
+iter: 2431, loss: 3711.968018, content loss: 2817560.500000, style_loss: 182239.953125
+iter: 2432, loss: 3711.658203, content loss: 2817363.500000, style_loss: 182220.921875
+iter: 2433, loss: 3711.336426, content loss: 2817143.000000, style_loss: 182202.765625
+iter: 2434, loss: 3711.007324, content loss: 2816923.750000, style_loss: 182183.515625
+iter: 2435, loss: 3710.693604, content loss: 2816721.000000, style_loss: 182164.609375
+iter: 2436, loss: 3710.359131, content loss: 2816396.500000, style_loss: 182155.234375
+iter: 2437, loss: 3710.014893, content loss: 2816166.500000, style_loss: 182135.218750
+iter: 2438, loss: 3709.677734, content loss: 2815917.250000, style_loss: 182117.984375
+iter: 2439, loss: 3709.335938, content loss: 2815733.750000, style_loss: 182093.609375
+iter: 2440, loss: 3709.006348, content loss: 2815496.750000, style_loss: 182076.125000
+iter: 2441, loss: 3708.653320, content loss: 2815262.000000, style_loss: 182055.453125
+iter: 2442, loss: 3708.291016, content loss: 2815011.500000, style_loss: 182035.250000
+iter: 2443, loss: 3707.951172, content loss: 2814722.750000, style_loss: 182021.609375
+iter: 2444, loss: 3707.581543, content loss: 2814428.000000, style_loss: 182004.921875
+iter: 2445, loss: 3707.248047, content loss: 2814229.000000, style_loss: 181983.093750
+iter: 2446, loss: 3706.916504, content loss: 2814019.500000, style_loss: 181962.625000
+iter: 2447, loss: 3706.575195, content loss: 2813853.500000, style_loss: 181936.546875
+iter: 2448, loss: 3706.229980, content loss: 2813614.000000, style_loss: 181917.359375
+iter: 2449, loss: 3705.891602, content loss: 2813422.500000, style_loss: 181894.187500
+iter: 2450, loss: 3705.534912, content loss: 2813177.500000, style_loss: 181874.109375
+iter: 2451, loss: 3705.161621, content loss: 2812940.500000, style_loss: 181851.140625
+iter: 2452, loss: 3704.798828, content loss: 2812750.500000, style_loss: 181824.796875
+iter: 2453, loss: 3704.441162, content loss: 2812614.500000, style_loss: 181793.687500
+iter: 2454, loss: 3704.074219, content loss: 2812431.500000, style_loss: 181766.156250
+iter: 2455, loss: 3703.728027, content loss: 2812259.250000, style_loss: 181740.078125
+iter: 2456, loss: 3703.382812, content loss: 2812073.500000, style_loss: 181715.484375
+iter: 2457, loss: 3703.019531, content loss: 2811888.250000, style_loss: 181688.640625
+iter: 2458, loss: 3702.666992, content loss: 2811626.000000, style_loss: 181670.781250
+iter: 2459, loss: 3702.315430, content loss: 2811415.500000, style_loss: 181647.859375
+iter: 2460, loss: 3701.969727, content loss: 2811183.500000, style_loss: 181627.843750
+iter: 2461, loss: 3701.624023, content loss: 2810980.500000, style_loss: 181604.921875
+iter: 2462, loss: 3701.283203, content loss: 2810799.750000, style_loss: 181580.453125
+iter: 2463, loss: 3700.947266, content loss: 2810591.000000, style_loss: 181559.312500
+iter: 2464, loss: 3700.587891, content loss: 2810343.500000, style_loss: 181539.125000
+iter: 2465, loss: 3700.221191, content loss: 2810040.500000, style_loss: 181523.609375
+iter: 2466, loss: 3699.876709, content loss: 2809854.250000, style_loss: 181499.171875
+iter: 2467, loss: 3699.517090, content loss: 2809558.500000, style_loss: 181483.781250
+iter: 2468, loss: 3699.140625, content loss: 2809345.750000, style_loss: 181458.015625
+iter: 2469, loss: 3698.777588, content loss: 2809137.000000, style_loss: 181433.500000
+iter: 2470, loss: 3698.420898, content loss: 2808843.000000, style_loss: 181418.296875
+iter: 2471, loss: 3698.057617, content loss: 2808580.500000, style_loss: 181399.171875
+iter: 2472, loss: 3697.704590, content loss: 2808349.000000, style_loss: 181378.171875
+iter: 2473, loss: 3697.340820, content loss: 2808075.000000, style_loss: 181360.093750
+iter: 2474, loss: 3696.998535, content loss: 2807830.750000, style_loss: 181341.734375
+iter: 2475, loss: 3696.646240, content loss: 2807550.250000, style_loss: 181325.765625
+iter: 2476, loss: 3696.301758, content loss: 2807265.000000, style_loss: 181311.218750
+iter: 2477, loss: 3695.971924, content loss: 2807033.500000, style_loss: 181293.140625
+iter: 2478, loss: 3695.639648, content loss: 2806786.750000, style_loss: 181276.250000
+iter: 2479, loss: 3695.283203, content loss: 2806573.500000, style_loss: 181253.031250
+iter: 2480, loss: 3694.933105, content loss: 2806350.250000, style_loss: 181231.640625
+iter: 2481, loss: 3694.577148, content loss: 2806105.500000, style_loss: 181211.593750
+iter: 2482, loss: 3694.198730, content loss: 2805852.250000, style_loss: 181189.640625
+iter: 2483, loss: 3693.843262, content loss: 2805558.500000, style_loss: 181174.562500
+iter: 2484, loss: 3693.497314, content loss: 2805245.000000, style_loss: 181162.656250
+iter: 2485, loss: 3693.149414, content loss: 2804990.500000, style_loss: 181144.609375
+iter: 2486, loss: 3692.791016, content loss: 2804713.750000, style_loss: 181127.484375
+iter: 2487, loss: 3692.445312, content loss: 2804455.500000, style_loss: 181110.093750
+iter: 2488, loss: 3692.086426, content loss: 2804209.250000, style_loss: 181089.859375
+iter: 2489, loss: 3691.710938, content loss: 2803971.000000, style_loss: 181066.750000
+iter: 2490, loss: 3691.340332, content loss: 2803744.000000, style_loss: 181043.156250
+iter: 2491, loss: 3690.970459, content loss: 2803511.000000, style_loss: 181020.187500
+iter: 2492, loss: 3690.595703, content loss: 2803227.750000, style_loss: 181001.687500
+iter: 2493, loss: 3690.242188, content loss: 2802994.500000, style_loss: 180980.828125
+iter: 2494, loss: 3689.902344, content loss: 2802747.000000, style_loss: 180963.078125
+iter: 2495, loss: 3689.554443, content loss: 2802528.000000, style_loss: 180941.484375
+iter: 2496, loss: 3689.190430, content loss: 2802253.250000, style_loss: 180923.468750
+iter: 2497, loss: 3688.813965, content loss: 2801977.500000, style_loss: 180904.000000
+iter: 2498, loss: 3688.446045, content loss: 2801727.500000, style_loss: 180883.015625
+iter: 2499, loss: 3688.084473, content loss: 2801481.750000, style_loss: 180862.390625
+iter: 2500, loss: 3687.727539, content loss: 2801206.000000, style_loss: 180845.312500
+iter: 2501, loss: 3687.380859, content loss: 2800974.000000, style_loss: 180825.234375
+iter: 2502, loss: 3687.001709, content loss: 2800714.000000, style_loss: 180803.828125
+iter: 2503, loss: 3686.635742, content loss: 2800479.000000, style_loss: 180781.578125
+iter: 2504, loss: 3686.271729, content loss: 2800180.000000, style_loss: 180765.953125
+iter: 2505, loss: 3685.896973, content loss: 2799884.500000, style_loss: 180748.671875
+iter: 2506, loss: 3685.539551, content loss: 2799651.500000, style_loss: 180727.265625
+iter: 2507, loss: 3685.184082, content loss: 2799395.500000, style_loss: 180708.468750
+iter: 2508, loss: 3684.801758, content loss: 2799100.000000, style_loss: 180690.203125
+iter: 2509, loss: 3684.449707, content loss: 2798851.000000, style_loss: 180671.093750
+iter: 2510, loss: 3684.092285, content loss: 2798528.500000, style_loss: 180658.703125
+iter: 2511, loss: 3683.729980, content loss: 2798183.000000, style_loss: 180647.953125
+iter: 2512, loss: 3683.371582, content loss: 2797835.500000, style_loss: 180637.890625
+iter: 2513, loss: 3683.017578, content loss: 2797588.000000, style_loss: 180618.421875
+iter: 2514, loss: 3682.656250, content loss: 2797282.500000, style_loss: 180603.765625
+iter: 2515, loss: 3682.296875, content loss: 2797059.000000, style_loss: 180581.187500
+iter: 2516, loss: 3681.935059, content loss: 2796834.250000, style_loss: 180558.453125
+iter: 2517, loss: 3681.567383, content loss: 2796481.500000, style_loss: 180547.765625
+iter: 2518, loss: 3681.204590, content loss: 2796198.250000, style_loss: 180530.765625
+iter: 2519, loss: 3680.851562, content loss: 2795915.750000, style_loss: 180514.906250
+iter: 2520, loss: 3680.493164, content loss: 2795629.000000, style_loss: 180498.734375
+iter: 2521, loss: 3680.140869, content loss: 2795379.500000, style_loss: 180479.671875
+iter: 2522, loss: 3679.811035, content loss: 2795129.500000, style_loss: 180463.437500
+iter: 2523, loss: 3679.457031, content loss: 2794870.500000, style_loss: 180445.093750
+iter: 2524, loss: 3679.135254, content loss: 2794618.000000, style_loss: 180430.093750
+iter: 2525, loss: 3678.795898, content loss: 2794342.000000, style_loss: 180415.265625
+iter: 2526, loss: 3678.467773, content loss: 2794153.250000, style_loss: 180393.156250
+iter: 2527, loss: 3678.121094, content loss: 2793906.000000, style_loss: 180374.531250
+iter: 2528, loss: 3677.775879, content loss: 2793703.500000, style_loss: 180351.640625
+iter: 2529, loss: 3677.427734, content loss: 2793525.250000, style_loss: 180325.968750
+iter: 2530, loss: 3677.077148, content loss: 2793277.000000, style_loss: 180306.921875
+iter: 2531, loss: 3676.722900, content loss: 2793018.000000, style_loss: 180288.562500
+iter: 2532, loss: 3676.380371, content loss: 2792753.500000, style_loss: 180272.187500
+iter: 2533, loss: 3676.028809, content loss: 2792495.250000, style_loss: 180254.078125
+iter: 2534, loss: 3675.680664, content loss: 2792276.000000, style_loss: 180232.484375
+iter: 2535, loss: 3675.332764, content loss: 2792030.500000, style_loss: 180213.546875
+iter: 2536, loss: 3675.000488, content loss: 2791779.000000, style_loss: 180197.156250
+iter: 2537, loss: 3674.657715, content loss: 2791537.000000, style_loss: 180178.515625
+iter: 2538, loss: 3674.309570, content loss: 2791286.250000, style_loss: 180160.078125
+iter: 2539, loss: 3673.984375, content loss: 2791028.000000, style_loss: 180145.265625
+iter: 2540, loss: 3673.636230, content loss: 2790784.250000, style_loss: 180126.093750
+iter: 2541, loss: 3673.291016, content loss: 2790549.750000, style_loss: 180106.406250
+iter: 2542, loss: 3672.938965, content loss: 2790283.000000, style_loss: 180089.078125
+iter: 2543, loss: 3672.605469, content loss: 2790069.000000, style_loss: 180068.781250
+iter: 2544, loss: 3672.236816, content loss: 2789748.250000, style_loss: 180054.765625
+iter: 2545, loss: 3671.866699, content loss: 2789462.000000, style_loss: 180037.109375
+iter: 2546, loss: 3671.499023, content loss: 2789158.000000, style_loss: 180021.578125
+iter: 2547, loss: 3671.146484, content loss: 2788907.000000, style_loss: 180002.609375
+iter: 2548, loss: 3670.811035, content loss: 2788598.250000, style_loss: 179991.546875
+iter: 2549, loss: 3670.475586, content loss: 2788361.000000, style_loss: 179973.359375
+iter: 2550, loss: 3670.129395, content loss: 2788104.500000, style_loss: 179955.718750
+iter: 2551, loss: 3669.783691, content loss: 2787857.750000, style_loss: 179937.187500
+iter: 2552, loss: 3669.426270, content loss: 2787629.750000, style_loss: 179915.296875
+iter: 2553, loss: 3669.078857, content loss: 2787365.000000, style_loss: 179898.375000
+iter: 2554, loss: 3668.731934, content loss: 2787117.250000, style_loss: 179879.750000
+iter: 2555, loss: 3668.387207, content loss: 2786883.250000, style_loss: 179860.078125
+iter: 2556, loss: 3668.045654, content loss: 2786659.500000, style_loss: 179839.750000
+iter: 2557, loss: 3667.691895, content loss: 2786341.500000, style_loss: 179827.328125
+iter: 2558, loss: 3667.339600, content loss: 2786113.750000, style_loss: 179806.078125
+iter: 2559, loss: 3667.012695, content loss: 2785855.500000, style_loss: 179791.015625
+iter: 2560, loss: 3666.676270, content loss: 2785595.500000, style_loss: 179774.968750
+iter: 2561, loss: 3666.376221, content loss: 2785371.500000, style_loss: 179759.875000
+iter: 2562, loss: 3666.062988, content loss: 2785137.750000, style_loss: 179744.093750
+iter: 2563, loss: 3665.729980, content loss: 2784920.750000, style_loss: 179724.187500
+iter: 2564, loss: 3665.385254, content loss: 2784680.000000, style_loss: 179705.171875
+iter: 2565, loss: 3665.039551, content loss: 2784397.000000, style_loss: 179690.234375
+iter: 2566, loss: 3664.709473, content loss: 2784059.000000, style_loss: 179682.812500
+iter: 2567, loss: 3664.385986, content loss: 2783785.000000, style_loss: 179669.765625
+iter: 2568, loss: 3664.063965, content loss: 2783572.000000, style_loss: 179650.828125
+iter: 2569, loss: 3663.734863, content loss: 2783365.500000, style_loss: 179630.281250
+iter: 2570, loss: 3663.402832, content loss: 2783148.500000, style_loss: 179610.484375
+iter: 2571, loss: 3663.051270, content loss: 2782921.000000, style_loss: 179589.328125
+iter: 2572, loss: 3662.683838, content loss: 2782700.000000, style_loss: 179565.484375
+iter: 2573, loss: 3662.326660, content loss: 2782452.500000, style_loss: 179545.593750
+iter: 2574, loss: 3661.979492, content loss: 2782206.250000, style_loss: 179526.796875
+iter: 2575, loss: 3661.626953, content loss: 2781953.500000, style_loss: 179508.000000
+iter: 2576, loss: 3661.280762, content loss: 2781756.000000, style_loss: 179484.484375
+iter: 2577, loss: 3660.943359, content loss: 2781525.000000, style_loss: 179465.406250
+iter: 2578, loss: 3660.591797, content loss: 2781303.750000, style_loss: 179443.578125
+iter: 2579, loss: 3660.249512, content loss: 2781059.250000, style_loss: 179425.250000
+iter: 2580, loss: 3659.908447, content loss: 2780824.500000, style_loss: 179406.125000
+iter: 2581, loss: 3659.583496, content loss: 2780613.500000, style_loss: 179386.578125
+iter: 2582, loss: 3659.239014, content loss: 2780346.000000, style_loss: 179370.265625
+iter: 2583, loss: 3658.919922, content loss: 2780107.250000, style_loss: 179354.265625
+iter: 2584, loss: 3658.591797, content loss: 2779870.500000, style_loss: 179336.953125
+iter: 2585, loss: 3658.239258, content loss: 2779655.750000, style_loss: 179314.328125
+iter: 2586, loss: 3657.913086, content loss: 2779476.000000, style_loss: 179291.515625
+iter: 2587, loss: 3657.571289, content loss: 2779196.500000, style_loss: 179276.734375
+iter: 2588, loss: 3657.224121, content loss: 2778964.500000, style_loss: 179256.562500
+iter: 2589, loss: 3656.892334, content loss: 2778763.500000, style_loss: 179235.187500
+iter: 2590, loss: 3656.564941, content loss: 2778586.000000, style_loss: 179212.046875
+iter: 2591, loss: 3656.242920, content loss: 2778375.500000, style_loss: 179192.796875
+iter: 2592, loss: 3655.908203, content loss: 2778188.500000, style_loss: 179169.687500
+iter: 2593, loss: 3655.583984, content loss: 2777976.000000, style_loss: 179150.375000
+iter: 2594, loss: 3655.251953, content loss: 2777882.750000, style_loss: 179118.203125
+iter: 2595, loss: 3654.921875, content loss: 2777696.750000, style_loss: 179095.578125
+iter: 2596, loss: 3654.575195, content loss: 2777493.750000, style_loss: 179072.531250
+iter: 2597, loss: 3654.213867, content loss: 2777250.250000, style_loss: 179051.718750
+iter: 2598, loss: 3653.867432, content loss: 2777061.000000, style_loss: 179027.328125
+iter: 2599, loss: 3653.516113, content loss: 2776888.250000, style_loss: 179000.671875
+iter: 2600, loss: 3653.171875, content loss: 2776689.000000, style_loss: 178977.609375
+iter: 2601, loss: 3652.823486, content loss: 2776441.750000, style_loss: 178958.765625
+iter: 2602, loss: 3652.484375, content loss: 2776227.250000, style_loss: 178937.812500
+iter: 2603, loss: 3652.121094, content loss: 2775936.500000, style_loss: 178921.500000
+iter: 2604, loss: 3651.783936, content loss: 2775668.500000, style_loss: 178906.156250
+iter: 2605, loss: 3651.453125, content loss: 2775439.250000, style_loss: 178887.703125
+iter: 2606, loss: 3651.112793, content loss: 2775201.000000, style_loss: 178869.015625
+iter: 2607, loss: 3650.757080, content loss: 2774967.750000, style_loss: 178847.859375
+iter: 2608, loss: 3650.400391, content loss: 2774797.750000, style_loss: 178820.265625
+iter: 2609, loss: 3650.052979, content loss: 2774569.000000, style_loss: 178799.734375
+iter: 2610, loss: 3649.715088, content loss: 2774316.750000, style_loss: 178782.703125
+iter: 2611, loss: 3649.363770, content loss: 2774073.250000, style_loss: 178763.140625
+iter: 2612, loss: 3649.021484, content loss: 2773865.000000, style_loss: 178741.171875
+iter: 2613, loss: 3648.672363, content loss: 2773691.500000, style_loss: 178714.890625
+iter: 2614, loss: 3648.303711, content loss: 2773474.000000, style_loss: 178690.562500
+iter: 2615, loss: 3647.972656, content loss: 2773297.500000, style_loss: 178666.828125
+iter: 2616, loss: 3647.628906, content loss: 2773024.500000, style_loss: 178651.187500
+iter: 2617, loss: 3647.294434, content loss: 2772835.000000, style_loss: 178628.296875
+iter: 2618, loss: 3646.971191, content loss: 2772626.500000, style_loss: 178608.765625
+iter: 2619, loss: 3646.616699, content loss: 2772387.500000, style_loss: 178588.343750
+iter: 2620, loss: 3646.280273, content loss: 2772222.250000, style_loss: 178562.796875
+iter: 2621, loss: 3645.923096, content loss: 2771987.000000, style_loss: 178541.671875
+iter: 2622, loss: 3645.568359, content loss: 2771738.500000, style_loss: 178522.203125
+iter: 2623, loss: 3645.216797, content loss: 2771471.500000, style_loss: 178504.953125
+iter: 2624, loss: 3644.885498, content loss: 2771225.250000, style_loss: 178488.156250
+iter: 2625, loss: 3644.560303, content loss: 2771016.500000, style_loss: 178468.375000
+iter: 2626, loss: 3644.229492, content loss: 2770765.250000, style_loss: 178452.171875
+iter: 2627, loss: 3643.899902, content loss: 2770614.000000, style_loss: 178426.062500
+iter: 2628, loss: 3643.561523, content loss: 2770428.750000, style_loss: 178402.296875
+iter: 2629, loss: 3643.230469, content loss: 2770213.500000, style_loss: 178382.453125
+iter: 2630, loss: 3642.901855, content loss: 2769944.500000, style_loss: 178368.265625
+iter: 2631, loss: 3642.564941, content loss: 2769679.500000, style_loss: 178352.640625
+iter: 2632, loss: 3642.233887, content loss: 2769477.000000, style_loss: 178331.546875
+iter: 2633, loss: 3641.888672, content loss: 2769244.750000, style_loss: 178311.593750
+iter: 2634, loss: 3641.557373, content loss: 2768995.000000, style_loss: 178295.156250
+iter: 2635, loss: 3641.212891, content loss: 2768754.000000, style_loss: 178276.203125
+iter: 2636, loss: 3640.887695, content loss: 2768545.750000, style_loss: 178256.390625
+iter: 2637, loss: 3640.555176, content loss: 2768271.250000, style_loss: 178242.250000
+iter: 2638, loss: 3640.240723, content loss: 2768010.500000, style_loss: 178229.046875
+iter: 2639, loss: 3639.915039, content loss: 2767772.000000, style_loss: 178212.203125
+iter: 2640, loss: 3639.575195, content loss: 2767497.500000, style_loss: 178197.140625
+iter: 2641, loss: 3639.236816, content loss: 2767235.750000, style_loss: 178181.031250
+iter: 2642, loss: 3638.908447, content loss: 2767017.000000, style_loss: 178161.859375
+iter: 2643, loss: 3638.563477, content loss: 2766727.000000, style_loss: 178147.718750
+iter: 2644, loss: 3638.227295, content loss: 2766472.750000, style_loss: 178131.125000
+iter: 2645, loss: 3637.899902, content loss: 2766280.000000, style_loss: 178109.500000
+iter: 2646, loss: 3637.585938, content loss: 2766034.000000, style_loss: 178094.828125
+iter: 2647, loss: 3637.257324, content loss: 2765812.000000, style_loss: 178075.937500
+iter: 2648, loss: 3636.929443, content loss: 2765610.500000, style_loss: 178055.140625
+iter: 2649, loss: 3636.608398, content loss: 2765360.500000, style_loss: 178039.984375
+iter: 2650, loss: 3636.279297, content loss: 2765113.500000, style_loss: 178023.531250
+iter: 2651, loss: 3635.957275, content loss: 2764879.750000, style_loss: 178006.671875
+iter: 2652, loss: 3635.625977, content loss: 2764647.500000, style_loss: 177988.468750
+iter: 2653, loss: 3635.303711, content loss: 2764420.750000, style_loss: 177970.859375
+iter: 2654, loss: 3634.982178, content loss: 2764212.750000, style_loss: 177951.500000
+iter: 2655, loss: 3634.671875, content loss: 2763990.000000, style_loss: 177935.000000
+iter: 2656, loss: 3634.354980, content loss: 2763781.500000, style_loss: 177916.203125
+iter: 2657, loss: 3634.033203, content loss: 2763556.500000, style_loss: 177898.468750
+iter: 2658, loss: 3633.705566, content loss: 2763334.000000, style_loss: 177879.765625
+iter: 2659, loss: 3633.387695, content loss: 2763133.000000, style_loss: 177860.156250
+iter: 2660, loss: 3633.050537, content loss: 2762874.500000, style_loss: 177843.859375
+iter: 2661, loss: 3632.722412, content loss: 2762592.000000, style_loss: 177831.109375
+iter: 2662, loss: 3632.389404, content loss: 2762399.000000, style_loss: 177808.765625
+iter: 2663, loss: 3632.046875, content loss: 2762190.500000, style_loss: 177786.812500
+iter: 2664, loss: 3631.704102, content loss: 2761934.750000, style_loss: 177769.500000
+iter: 2665, loss: 3631.361816, content loss: 2761671.500000, style_loss: 177753.062500
+iter: 2666, loss: 3631.022461, content loss: 2761426.250000, style_loss: 177735.187500
+iter: 2667, loss: 3630.697998, content loss: 2761218.500000, style_loss: 177715.390625
+iter: 2668, loss: 3630.384277, content loss: 2761012.000000, style_loss: 177696.812500
+iter: 2669, loss: 3630.059570, content loss: 2760780.500000, style_loss: 177679.421875
+iter: 2670, loss: 3629.723145, content loss: 2760549.000000, style_loss: 177660.484375
+iter: 2671, loss: 3629.417480, content loss: 2760329.250000, style_loss: 177644.234375
+iter: 2672, loss: 3629.104004, content loss: 2760160.000000, style_loss: 177622.000000
+iter: 2673, loss: 3628.797852, content loss: 2759913.750000, style_loss: 177608.375000
+iter: 2674, loss: 3628.489746, content loss: 2759702.250000, style_loss: 177591.000000
+iter: 2675, loss: 3628.184326, content loss: 2759493.500000, style_loss: 177573.687500
+iter: 2676, loss: 3627.860840, content loss: 2759279.750000, style_loss: 177554.625000
+iter: 2677, loss: 3627.534180, content loss: 2759051.250000, style_loss: 177536.656250
+iter: 2678, loss: 3627.212891, content loss: 2758853.000000, style_loss: 177516.312500
+iter: 2679, loss: 3626.895996, content loss: 2758573.750000, style_loss: 177504.625000
+iter: 2680, loss: 3626.575684, content loss: 2758354.000000, style_loss: 177486.578125
+iter: 2681, loss: 3626.250488, content loss: 2758098.000000, style_loss: 177471.531250
+iter: 2682, loss: 3625.930420, content loss: 2757879.000000, style_loss: 177453.390625
+iter: 2683, loss: 3625.607910, content loss: 2757678.500000, style_loss: 177433.125000
+iter: 2684, loss: 3625.286133, content loss: 2757429.500000, style_loss: 177417.796875
+iter: 2685, loss: 3624.974121, content loss: 2757190.000000, style_loss: 177402.750000
+iter: 2686, loss: 3624.672363, content loss: 2756981.000000, style_loss: 177385.968750
+iter: 2687, loss: 3624.345215, content loss: 2756778.500000, style_loss: 177365.265625
+iter: 2688, loss: 3624.023926, content loss: 2756576.500000, style_loss: 177345.343750
+iter: 2689, loss: 3623.711426, content loss: 2756345.500000, style_loss: 177329.375000
+iter: 2690, loss: 3623.373047, content loss: 2756076.000000, style_loss: 177314.031250
+iter: 2691, loss: 3623.045898, content loss: 2755847.250000, style_loss: 177296.031250
+iter: 2692, loss: 3622.723877, content loss: 2755640.000000, style_loss: 177276.484375
+iter: 2693, loss: 3622.408691, content loss: 2755421.250000, style_loss: 177258.953125
+iter: 2694, loss: 3622.093506, content loss: 2755234.000000, style_loss: 177238.265625
+iter: 2695, loss: 3621.791260, content loss: 2755063.750000, style_loss: 177217.515625
+iter: 2696, loss: 3621.502930, content loss: 2754845.250000, style_loss: 177203.312500
+iter: 2697, loss: 3621.182861, content loss: 2754635.750000, style_loss: 177184.281250
+iter: 2698, loss: 3620.863281, content loss: 2754439.750000, style_loss: 177163.937500
+iter: 2699, loss: 3620.547363, content loss: 2754282.000000, style_loss: 177140.234375
+iter: 2700, loss: 3620.215332, content loss: 2754167.500000, style_loss: 177110.156250
+iter: 2701, loss: 3619.887451, content loss: 2754017.000000, style_loss: 177084.218750
+iter: 2702, loss: 3619.559082, content loss: 2753788.000000, style_loss: 177066.093750
+iter: 2703, loss: 3619.230957, content loss: 2753562.250000, style_loss: 177047.609375
+iter: 2704, loss: 3618.909668, content loss: 2753354.750000, style_loss: 177028.218750
+iter: 2705, loss: 3618.601074, content loss: 2753194.500000, style_loss: 177005.656250
+iter: 2706, loss: 3618.283203, content loss: 2753006.000000, style_loss: 176984.812500
+iter: 2707, loss: 3617.960938, content loss: 2752851.000000, style_loss: 176960.031250
+iter: 2708, loss: 3617.638672, content loss: 2752637.000000, style_loss: 176941.125000
+iter: 2709, loss: 3617.323486, content loss: 2752426.000000, style_loss: 176922.843750
+iter: 2710, loss: 3617.019043, content loss: 2752238.750000, style_loss: 176903.515625
+iter: 2711, loss: 3616.704102, content loss: 2752047.500000, style_loss: 176883.281250
+iter: 2712, loss: 3616.407227, content loss: 2751836.250000, style_loss: 176867.281250
+iter: 2713, loss: 3616.107422, content loss: 2751705.500000, style_loss: 176842.906250
+iter: 2714, loss: 3615.791748, content loss: 2751511.000000, style_loss: 176822.875000
+iter: 2715, loss: 3615.496338, content loss: 2751313.500000, style_loss: 176805.687500
+iter: 2716, loss: 3615.188477, content loss: 2751114.000000, style_loss: 176787.156250
+iter: 2717, loss: 3614.883301, content loss: 2750915.750000, style_loss: 176768.828125
+iter: 2718, loss: 3614.585938, content loss: 2750774.000000, style_loss: 176745.843750
+iter: 2719, loss: 3614.295654, content loss: 2750622.000000, style_loss: 176724.750000
+iter: 2720, loss: 3614.004883, content loss: 2750409.500000, style_loss: 176709.656250
+iter: 2721, loss: 3613.699219, content loss: 2750196.250000, style_loss: 176692.750000
+iter: 2722, loss: 3613.398926, content loss: 2750034.500000, style_loss: 176671.390625
+iter: 2723, loss: 3613.098145, content loss: 2749842.750000, style_loss: 176652.984375
+iter: 2724, loss: 3612.782715, content loss: 2749648.000000, style_loss: 176633.031250
+iter: 2725, loss: 3612.472900, content loss: 2749407.750000, style_loss: 176618.343750
+iter: 2726, loss: 3612.166016, content loss: 2749225.000000, style_loss: 176598.250000
+iter: 2727, loss: 3611.850586, content loss: 2749045.000000, style_loss: 176576.812500
+iter: 2728, loss: 3611.541748, content loss: 2748902.750000, style_loss: 176552.453125
+iter: 2729, loss: 3611.248779, content loss: 2748715.750000, style_loss: 176534.500000
+iter: 2730, loss: 3610.942871, content loss: 2748514.000000, style_loss: 176516.453125
+iter: 2731, loss: 3610.642578, content loss: 2748332.000000, style_loss: 176497.109375
+iter: 2732, loss: 3610.346191, content loss: 2748151.500000, style_loss: 176478.109375
+iter: 2733, loss: 3610.053223, content loss: 2747992.000000, style_loss: 176457.453125
+iter: 2734, loss: 3609.743896, content loss: 2747822.000000, style_loss: 176435.781250
+iter: 2735, loss: 3609.437012, content loss: 2747647.250000, style_loss: 176414.921875
+iter: 2736, loss: 3609.121094, content loss: 2747460.500000, style_loss: 176394.078125
+iter: 2737, loss: 3608.789551, content loss: 2747258.500000, style_loss: 176372.859375
+iter: 2738, loss: 3608.481689, content loss: 2747064.250000, style_loss: 176353.781250
+iter: 2739, loss: 3608.164062, content loss: 2746836.000000, style_loss: 176336.921875
+iter: 2740, loss: 3607.835449, content loss: 2746643.500000, style_loss: 176315.093750
+iter: 2741, loss: 3607.532715, content loss: 2746448.750000, style_loss: 176296.703125
+iter: 2742, loss: 3607.246826, content loss: 2746276.500000, style_loss: 176278.187500
+iter: 2743, loss: 3606.950684, content loss: 2746067.500000, style_loss: 176262.062500
+iter: 2744, loss: 3606.645020, content loss: 2745784.500000, style_loss: 176252.171875
+iter: 2745, loss: 3606.352539, content loss: 2745574.500000, style_loss: 176236.640625
+iter: 2746, loss: 3606.038574, content loss: 2745354.500000, style_loss: 176219.390625
+iter: 2747, loss: 3605.723389, content loss: 2745167.000000, style_loss: 176198.718750
